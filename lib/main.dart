@@ -38,6 +38,7 @@ class MyApp extends StatelessWidget {
         // * (2-1) '/'
         if (settings.name == '/') {
           return MaterialPageRoute(
+            settings: RouteSettings(name: '/'),
             builder: (context) => MyHomePage(title: 'Flutter Demo Home Page'), 
             maintainState: false
           );
@@ -54,7 +55,7 @@ class MyApp extends StatelessWidget {
 
           if(aUriPath.length >= 2){
             aUriPath.forEach((e) {
-              aUriPathData += e.toString();
+              aUriPathData += "/${e.toString()}";
             });
           }
           else{
@@ -64,8 +65,9 @@ class MyApp extends StatelessWidget {
           // - QS
           String qsValue;
           qsValue = uri.queryParameters['value']?.toString() ?? 'none';
-
+          print(settings.name);
           return MaterialPageRoute(
+            settings: RouteSettings(name: settings.name.toString()),
             builder: (context) => MyHomePage(
               title: '/a - path : $aUriPathData / qs : $qsValue'
               ),
@@ -74,12 +76,14 @@ class MyApp extends StatelessWidget {
         }
         if (uri.pathSegments.first == 'b') {
           return MaterialPageRoute(
+            settings: RouteSettings(name: '/b'),
             builder: (context) => new PageTwo()
           );
         }
 
         // (3) 404
         return MaterialPageRoute(
+          settings: RouteSettings(name: '/none'),
           builder: (context) => MyHomePage(title: 'NO Page'), 
           maintainState: false
         );
@@ -137,7 +141,7 @@ class _MyHomePageState extends State<MyHomePage> {
               // (4) Page Move(push, pop)
               onPressed: () => Navigator.of(context).push(
                 MaterialPageRoute(
-                  settings: RouteSettings(name: 'a'),
+                  settings: RouteSettings(name: '/b'),
                   builder: (context) => PageTwo()
                 )
               ),
