@@ -1,21 +1,23 @@
 # Flutter WEB APP DESKTOP
 (ver : 1.26.0-1.0.pre)  
 
-<img src="https://avatars1.githubusercontent.com/u/56661529?s=460&u=a78acbb3fc77487cd2078e460ba19d8cc751b2f2&v=4" width="30%" />
-
 ## Youtube : 제임쓰 Dev 
 
-<img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="30%" />
+<img src="https://avatars1.githubusercontent.com/u/56661529?s=460&u=a78acbb3fc77487cd2078e460ba19d8cc751b2f2&v=4" width="30%" />
 
 ### Dart
+
+<img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="10%" />
+
 - [x] 문법 Grammar [Code_VarFunc 1](https://youtu.be/g5km3WGYm40), [Code_Class 2](https://youtu.be/vroq4fr8Z8s), [Code_String 3](https://youtu.be/0bsDSlD7_zo), [Code_List 4](https://youtu.be/2TEdTA_HRVg)
 - [x] Modeling - OpenAPI 활용
   - [x] 서울 열린 데이터 광장(서울시 구별 주민등록 인구) [Video & Code](https://youtu.be/WCPnJrDhCdI)
   - [x] openWeather 날씨[Video & Code](https://youtu.be/tLpqycMNflI)
 
+### Flutter 
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8SzOTScxCnYc0K55nikX6NsEukLKONYl6g&usqp=CAU" width="30%" />
 
-### Flutter 
 - [ ] Flutter(WEB & APP & Desktop)
   - [ ] UI
     - [ ] Material Design
