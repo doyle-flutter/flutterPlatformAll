@@ -20,33 +20,38 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8SzOTScxCnYc0K55nikX6NsEukLKONYl6g&usqp=CAU" width="30%" />
 
 - [ ] Flutter(WEB & APP & Desktop)
-  - [ ] UI
-    - [ ] Material Design Widget
-      - Scaffold [Video & Code]()
-      - Container [Video & Code]()
-      - Text [Video & Code]()
-      - SinglechildScrollView [Video & Code]()
-      - Column, Row [Video & Code]()
-      - ListView [Video & Code]() 
-      - GridView [Video & Code]()
-      - SafeArea [Video & Code]()
-      - Button's [Video & Code 1](), [Video & Code 2]()
-      - AppBar & SliverAppBar [Video & Code]()
-      - Screen OrientationBuilder & Fixed [Video & Code]()
-      - DateTime Calculation [Video & Code]()
-      - PageView [Video & Code]()
-      - BottomSheet [Video & Code]()
-      - ListWheelScrollView[Video & Code]()
-      - MediaQuery & Expanded [Video & Code]()
-      - ShaderMask [Video & Code 1](), [Video & Code 2]()
-      - NotificationListner & BuildContext - Builder [Video & Code]()
-      - Animation - CustomDrawer [Video & Code 1](), [Video & Code 2]()
-      - PIP [Video & Code]()
-      - GestureDetector & onTap / TapPosition [Video & Code]()
-      - ClipPath [Video & Code]()
-      - Progress Indicator [Video & Code]()
-      - [Video & Code]()
-      - [Video & Code]()
+  - [x] SETUP [Windows](https://youtu.be/ZOSQHBTWQZY?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
+  - [x] Update Version Apply & Change [Prev](https://youtu.be/W1f0v9jf4gE) / [1.22.5](https://youtu.be/ipnPzfgmTHU?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
+  - [x] UI
+    - [x] Material Design Widget(basic)
+      - Scaffold : Tutorial 1
+      - Container : Tutorial 2
+      - Text : Tutorial 3
+      - SingleChildScrollView : Tutorial 4
+      - Column, Row : Tutorial 5
+      - ListView : Tutorial 6
+      - GridView : Tutorial 7
+      - SafeArea : Tutorial 9
+      - Button's : Tutorial 10 / Tutorial 1.22 업데이트
+      - AppBar & SliverAppBar : Tutorial 13
+      - Screen OrientationBuilder & Fixed : Tutorial 18
+      - DateTime Calculation : Tutorial 21
+      - PageView : Tutorial 22
+      - BottomSheet : Tutorial 23
+      - ListWheelScrollVie : Tutorial 31
+      - MediaQuery & Expanded : Tutorial 32
+      - ShaderMask : Tutorial 33 / 34
+      - NotificationListner & BuildContext - Builder  : Tutorial 40
+      - Animation - CustomDrawer : Tutorial 42 / 43
+      - PIP : Tutorial 44
+      - GestureDetector & onTap / TapPosition : Tutorial 47
+      - ClipPath : Tutorial 49
+      - Progress Indicators : Tutorial 51
+      - WillPopScope : Tutorial 57
+      - Scroll Refresh (pull_to_refresh - SmartRefresher) : Tutorial 61
+      - IgnorePointer : Tutorial 62
+      - Image : Tutorial 97
+      - Dialog(Alert) : Tutorial 99
     - [ ] Cupertino Design
   - [ ] State
     - [x] Stateful & Stateless [Video & Code 1](https://youtu.be/BnoWa4jZykM), [Video Code 2](https://youtu.be/BnoWa4jZykM)
@@ -60,7 +65,8 @@
   - [x] Camera Mobile [Video & Code](https://youtu.be/CXp3rzghCdA)
   - [x] Gallery ImagePicker : Mobile [Video & Code 1](https://youtu.be/CXp3rzghCdA), [Video & Code 2](https://youtu.be/JB4OhjSvUwY)
   - [x] File Folder : Mobile [Video & Code](https://youtu.be/eFxyAQamxWU)
-  - [x] Audio Record : Mobile [Video & Code](https://youtu.be/VuVe-319WH4)
+  - [x] Mic Record : Mobile [Video & Code](https://youtu.be/VuVe-319WH4)
+  - [x] Audio Play : Mobile [Video & Code](https://youtu.be/jgZvLRri5Mg)
   - [x] (Bio)Fingerprint Recognition : Mobile [Video & Code](https://youtu.be/Xu-HTCux0pI)
   - [x] Permission : Mobile [Video & Code](https://youtu.be/3JvN2HL6XR4)
   - [x] VideoPlayer(exmaple: Youtube) : Mobile [Video & Code](https://youtu.be/rqtTmj4LTTI)
@@ -69,9 +75,10 @@
   - [x] URL Launcher : Mobile [Video & Code](https://youtu.be/k7qBTJmAz2Y)
   - [x] Contact : Mobile [Video & Code](https://youtu.be/z5wcYwjyAno)
   - [x] QR Scanner : Mobile [Video & Code](https://youtu.be/CnhjRKHI9bs)
+  - [x] PDF : Mobile [Video & Code](https://youtu.be/HPnWCSZs1-I?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
   - [x] Mobile Native Channel : Mobile [Android Video & Code](https://youtu.be/pINJvBtKVQY), [IOS Video & Code](https://youtu.be/5pPnj1d_A48)
   - [x] Bluetooth : Mobile [Video & Code](https://youtu.be/zMrmXaTNRHE)
-  - [x] Notification - Local / FCM / Media : Mobile [Local Video & Code](https://youtu.be/_1Fbdvy13Wk), [FCM Video & Code](https://youtu.be/QtlVHAn1tt8), [Media Video & Code](https://youtu.be/YRi3VXuyD9c)
+  - [x] Notification - Local / FCM / Media : Mobile [Local Video & Code](https://youtu.be/_1Fbdvy13Wk), [FCM Video & Code](https://youtu.be/QtlVHAn1tt8), [Media Video & Code](https://youtu.be/YRi3VXuyD9c) , [OneSignal Push Notification 1](https://youtu.be/l6DYhPbc5L0?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ), [OneSignal Push Notification 2](https://youtu.be/Gp2zyzXVyx8?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
   - [x] Image Cropper : Mobile [Video & Code](https://youtu.be/ggUYy7LBl7k)
   - [x] View Capture [Video & Code](https://youtu.be/tec9sVBy9Ks)
   - [x] WebView - Channel : Mobile [Video & Code](https://youtu.be/tCBOBf6S5hQ)
@@ -112,7 +119,7 @@
   - [ ] Func
     - [ ] PlattformCheck
   - [ ] Deploy
-    - [ ] Android APK : GooglePlay
+    - [x] Android APK : GooglePlay [Video](https://youtu.be/Th5hK7aS-Og?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
     - [ ] IOS : AppStore
 - [ ] Desktop
   - [ ] Setup
@@ -136,6 +143,8 @@
   - [x] MySQL - Server [Video & Code with 생활코딩](https://youtu.be/cl4S2e3oaAI)
   - [x] Redis - Server [Video & Code 1](https://youtu.be/gNzmOjafjfA), [Video & Code 2](https://youtu.be/8T-6ZCK-aPk)
   - [ ] Sqlite - Server (Video & Code)
+- [x] GraphQL [Code](https://github.com/doyle-flutter/basicexpress/blob/master/routers/graphqlrouter.js)
+- [x] Mailer [Video & Code](https://youtu.be/-en3chRAZc8?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
 - [ ] Nice 휴대폰 인증 (Video & Code)
 - [ ] HTTPS 인증서
   - [x] Dev Test [Code Line 13~22](https://github.com/doyle-flutter/basicexpress/blob/master/app.js)
