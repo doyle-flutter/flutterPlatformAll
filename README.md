@@ -91,7 +91,7 @@
     - [x] HTTP(s) [Video & Code](https://youtu.be/V81YWTlq6HM)
     - [x] Socket.io - Client & Node.js - Server [Preview](https://youtu.be/QkMiMgkTSy8), [Code](https://youtu.be/iJ6e_x1QNvc), [Video & Code](https://youtu.be/5RKc6iImwG8)
   - [x] Database
-    - [x] Hive - Client (Video & Code...)
+    - [x] Hive - Client [Video & Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/pages/func/hivePage.dart)
     - [x] SharedPreference - Client [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/SharedPref.dart)
     - [x] Sqflite - Server [Video & Code](https://youtu.be/NOGR2XKTb5s)
 
