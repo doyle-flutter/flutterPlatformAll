@@ -1,9 +1,7 @@
 // Flutter 1.26.0-1.0.pre
+import 'package:all3/pages/func/hivePage.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
-import 'package:http/http.dart' as http;
-import 'package:hive/hive.dart';
-
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
@@ -96,7 +94,7 @@ class MyApp extends StatelessWidget {
         // * Doc : https://api.flutter.dev/flutter/foundation/kIsWeb-constant.html
         const bool kIsWeb = identical(0, 0.0);
         if(kIsWeb) return null;
-        return MyHomePage(title: 'Flutter Demo Home Page');
+        return HivePage();
       })(),
     );
   }

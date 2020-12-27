@@ -90,8 +90,8 @@
   - [x] Network 
     - [x] HTTP(s) [Video & Code](https://youtu.be/V81YWTlq6HM)
     - [x] Socket.io - Client & Node.js - Server [Preview](https://youtu.be/QkMiMgkTSy8), [Code](https://youtu.be/iJ6e_x1QNvc), [Video & Code](https://youtu.be/5RKc6iImwG8)
-  - [ ] Database
-    - [ ] Hive - Client (Video & Code...)
+  - [x] Database
+    - [x] Hive - Client (Video & Code...)
     - [x] SharedPreference - Client [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/SharedPref.dart)
     - [x] Sqflite - Server [Video & Code](https://youtu.be/NOGR2XKTb5s)
 
@@ -149,7 +149,7 @@
 - [ ] Nice 휴대폰 인증 (Video & Code)
 - [ ] HTTPS 인증서
   - [x] Dev Test [Code Line 13~22](https://github.com/doyle-flutter/basicexpress/blob/master/app.js)
-  - [ ] Domain(Cafe24) + SSH(Cafe24) + OpenSSL [Video & Code]()
+  - [ ] Domain(Cafe24) + SSH(Cafe24) + OpenSSL (Video & Code)
 
 ## Make My Package
 - [x] How to Make MyPackage ? [Video & Code](https://youtu.be/f9BOrMQrj4o)
