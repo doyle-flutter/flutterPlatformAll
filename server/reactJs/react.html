@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>React-HTTP</title>
+</head>
+<body>
+    <div id="fetchTag"></div>
+    <div id="socketTag"></div>
+
+    <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script type="text/babel">
+        "use strict"
+
+        class Ele extends React.Component{
+            constructor(props){
+                super(props);
+                this.state = { data: {} };
+            }
+            componentDidMount(){
+                fetch('http://127.0.0.1:3003/data/all')
+                    .then(res => res.json())
+                    .then(json => {
+                        console.log(json);
+                        this.setState({data: json})
+                        return;
+                    })
+                    .catch(e => console.log('ERR!'));
+            }
+            render(){
+                if(Object.keys(this.state.data).length !== 0){
+                    let listUi = new Array(this.state.data).map(e => (<p key={e.title}>{e.title}</p>));
+                    return listUi;
+                }
+                return (
+                    <p>{'Load....'}</p>
+                );
+            }
+        }
+        ReactDOM.render(<Ele />, document.getElementById('fetchTag'));
+
+        // Detach
+        class DetachComponent extends React.Component{
+            constructor(props){
+                super(props);
+            }
+            render(){
+                return (
+                    <button onClick={() => {
+                        console.log("분리");
+                        document.location.href = '/';
+                    }}>분리한 버튼</button>
+                );
+            }
+        }
+        
+        // Socket.io
+        class Sele extends React.Component{
+            constructor(props){
+                super(props);
+                this.state = {socketData:''}
+                const socket = io('ws://127.0.0.1:3003');
+                socket.on('connect', _ => this.setState({socketData: "Hi Socket.io"}));
+            }
+            render(){
+                if(this.state.socketData.length === 0) return (<p>{'socket.io Load...'}</p>);
+                return (<div><p>{this.state.socketData}</p><DetachComponent/></div>);
+            }
+        }
+
+
+        ReactDOM.render(<Sele />, document.getElementById('socketTag'));
+    </script>
+</body>
+</html>

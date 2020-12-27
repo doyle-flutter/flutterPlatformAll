@@ -91,7 +91,7 @@
     - [x] HTTP(s) [Video & Code](https://youtu.be/V81YWTlq6HM)
     - [x] Socket.io - Client & Node.js - Server [Preview](https://youtu.be/QkMiMgkTSy8), [Code](https://youtu.be/iJ6e_x1QNvc), [Video & Code](https://youtu.be/5RKc6iImwG8)
   - [x] Database
-    - [x] Hive - Client [Video & Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/pages/func/hivePage.dart)
+    - [x] Hive - Client [Video & Code](https://youtu.be/lKkBMhrCfyA)
     - [x] SharedPreference - Client [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/SharedPref.dart)
     - [x] Sqflite - Server [Video & Code](https://youtu.be/NOGR2XKTb5s)
 
@@ -150,6 +150,9 @@
 - [ ] HTTPS 인증서
   - [x] Dev Test [Code Line 13~22](https://github.com/doyle-flutter/basicexpress/blob/master/app.js)
   - [ ] Domain(Cafe24) + SSH(Cafe24) + OpenSSL (Video & Code)
+- 기존 WEB 프로젝트에 Flutter WEB 경로(Path) 추가하기
+- [ ] Node.JS & HTML & Flutter (Code...)
+- [ ] Node.JS & React & Flutter (Code...)
 
 ## Make My Package
 - [x] How to Make MyPackage ? [Video & Code](https://youtu.be/f9BOrMQrj4o)

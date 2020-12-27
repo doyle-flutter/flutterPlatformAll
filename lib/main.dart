@@ -1,4 +1,6 @@
 // Flutter 1.26.0-1.0.pre
+// -> APP : > flutter run --no-sound-null-safety
+// -> WEB : > flutter run -d chrome --no-sound-null-safety
 import 'package:all3/pages/func/hivePage.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';

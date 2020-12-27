@@ -1,3 +1,9 @@
+<!-- Flutter -->
+<!-- 
+  [ WEB Run ]
+  > flutter build web --release --no-sound-null-safety 
+-->
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -30,9 +36,55 @@
   <link rel="manifest" href="./manifest.json">
 </head>
 <body>
+  <div id="rootReact"></div>
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
+
+  <!-- <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script> -->
+  <script src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
+  <script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+  <script type="text/babel">
+    "use strict"
+    
+    // FunctionConponent
+    const styles = {
+      root: {
+        color: 'white',
+        position: 'fixed',
+        top: '200px',
+        left: '300px',
+        right: '300px',
+        height:'200px',
+        backgroundColor: 'red',
+        zIndex: 99999,
+        margin: 0,
+        textAlign: 'center',
+        lineHeight: '200px',
+        fontWeight: 'bold',
+      }
+    }
+
+    const MainApp = (props) => (<div><p style={styles.root}>아임 리액트!</p></div>);
+
+    // ClassComponent
+    // class MainApp extends React.Component{
+    //     constructor(props){
+    //         super(props);
+    //     }
+    //     render(){
+    //         return (
+    //             <button onClick={() => {
+    //                 console.log("분리");
+    //                 document.location.href = '/';
+    //             }}>분리한 버튼</button>
+    //         );
+    //     }
+    // }
+    ReactDOM.render(<MainApp />, document.getElementById('rootReact'));
+  </script>
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
