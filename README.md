@@ -1,7 +1,7 @@
 # Flutter WEB APP DESKTOP
 (ver : 1.26.0-1.0.pre)  
 
-## Youtube : 제임쓰 Dev 
+### Youtube : 제임쓰 Dev 
 
 <img src="https://avatars1.githubusercontent.com/u/56661529?s=460&u=a78acbb3fc77487cd2078e460ba19d8cc751b2f2&v=4" width="30%" />
 
@@ -9,7 +9,7 @@
 
 <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="10%" />
 
-- [x] 문법 Grammar [Code_VarFunc 1](https://youtu.be/g5km3WGYm40), [Code_Class 2](https://youtu.be/vroq4fr8Z8s), [Code_String 3](https://youtu.be/0bsDSlD7_zo), [Code_List 4](https://youtu.be/2TEdTA_HRVg)
+- [x] :star: 문법 Grammar [Code_VarFunc 1](https://youtu.be/g5km3WGYm40), [Code_Class 2](https://youtu.be/vroq4fr8Z8s), [Code_String 3](https://youtu.be/0bsDSlD7_zo), [Code_List 4](https://youtu.be/2TEdTA_HRVg)
 - [x] Future async & await [Video & Code](https://youtu.be/qM7vEh4L55Y)
 - [x] Modeling - OpenAPI 활용
   - [x] 서울 열린 데이터 광장(서울시 구별 주민등록 인구) [Video & Code](https://youtu.be/WCPnJrDhCdI)
@@ -19,11 +19,11 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8SzOTScxCnYc0K55nikX6NsEukLKONYl6g&usqp=CAU" width="30%" />
 
-- [ ] Flutter(WEB & APP & Desktop)
-  - [x] SETUP [Windows](https://youtu.be/ZOSQHBTWQZY?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
+- [ ] :v: Flutter(WEB & APP & Desktop)
+  - [x] SETUP [Windows](https://youtu.be/ZOSQHBTWQZY?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ) / Mac
   - [x] Update Version Apply & Change [Prev](https://youtu.be/W1f0v9jf4gE) / [1.22.5](https://youtu.be/ipnPzfgmTHU?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
-  - [x] UI
-    - [x] Material Design Widget(basic)
+  - [x] :star2: UI
+    - [x] Material Design Widget(basic) [Tutorial Video](https://youtube.com/playlist?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
       - Scaffold : Tutorial 1
       - Container : Tutorial 2
       - Text : Tutorial 3
@@ -34,28 +34,30 @@
       - SafeArea : Tutorial 9
       - Button's : Tutorial 10 / Tutorial 1.22 업데이트
       - AppBar & SliverAppBar : Tutorial 13
+      - Image : Tutorial 97
       - Screen OrientationBuilder & Fixed : Tutorial 18
       - DateTime Calculation : Tutorial 21
       - PageView : Tutorial 22
       - BottomSheet : Tutorial 23
       - ListWheelScrollVie : Tutorial 31
       - MediaQuery & Expanded : Tutorial 32
-      - ShaderMask : Tutorial 33 / 34
-      - NotificationListner & BuildContext - Builder  : Tutorial 40
-      - Animation - CustomDrawer : Tutorial 42 / 43
-      - PIP : Tutorial 44
       - GestureDetector & onTap / TapPosition : Tutorial 47
-      - ClipPath : Tutorial 49
       - Progress Indicators : Tutorial 51
       - WillPopScope : Tutorial 57
       - Scroll Refresh (pull_to_refresh - SmartRefresher) : Tutorial 61
       - IgnorePointer : Tutorial 62
-      - Image : Tutorial 97
       - Dialog(Alert) : Tutorial 99
+      - ClipPath : Tutorial 49
+      - ShaderMask : Tutorial 33 / 34
+      - NotificationListner & BuildContext - Builder  : Tutorial 40
+      - Animation - CustomDrawer : Tutorial 42 / 43
+      - PIP : Tutorial 44
     - [ ] Cupertino Design
+    - Design Sample
+      - Music App [Video & Code](https://youtu.be/XUhdzF3v974)
   - [ ] State
     - [x] Stateful & Stateless [Video & Code 1](https://youtu.be/BnoWa4jZykM), [Video Code 2](https://youtu.be/BnoWa4jZykM)
-    - [x] Provider [Video & Code 1](https://youtu.be/ny0TSVxAd-Q), [Video & Code 2](https://youtu.be/WXrYCjipLcg), [Video & Code 3](https://youtu.be/MXsl7XwAtYs)
+    - [x] :+1: Provider [Video & Code 1](https://youtu.be/ny0TSVxAd-Q), [Video & Code 2](https://youtu.be/WXrYCjipLcg), [Video & Code 3](https://youtu.be/MXsl7XwAtYs)
     - [ ] GetX
     - [ ] MobX
     - [ ] Redux
@@ -94,9 +96,8 @@
     - [x] Sqflite - Server [Video & Code](https://youtu.be/NOGR2XKTb5s)
 
 ## One Source Multi Platform
-- [ ] UI(Common) [Video & Code]()
-- [ ] WEB
-  - [ ] Setup (Video & Code)
+- [ ] WEB(2021 production version ?! :pray: )
+  - [x] Setup & Version UPdate [Video & Code](https://youtu.be/0_mQUS8Y8c0)
   - [x] Router - Navigator 2.0 [Video & Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
     - [x] (1) StaticPath
     - [x] (2-1) DynamicPath
