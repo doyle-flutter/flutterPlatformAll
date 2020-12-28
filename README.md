@@ -65,7 +65,7 @@
 
     - Design Sample
       - Music App [Video & Code](https://youtu.be/XUhdzF3v974)
-  - State
+  - :star: State
     - Stateful & Stateless [Video & Code 1](https://youtu.be/BnoWa4jZykM), [Video Code 2](https://youtu.be/BnoWa4jZykM)
     - :+1: Provider [Video & Code 1](https://youtu.be/ny0TSVxAd-Q), [Video & Code 2](https://youtu.be/WXrYCjipLcg), [Video & Code 3](https://youtu.be/MXsl7XwAtYs)
     - GetX
@@ -73,48 +73,45 @@
     - Redux
     - ...
   - :+1: UI LifeCycle & System LifeCycle [UI Video & Code 1](https://youtu.be/BnoWa4jZykM), [UI Video & Code 2](https://youtu.be/BnoWa4jZykM), [System Video & Code 3](https://youtu.be/NDanGQZb3iQ)
-  - Vibrator : Mobile [Video & Code](https://youtu.be/PB-IJQOTh8A)
-
   - :camera: Camera Mobile [Video & Code](https://youtu.be/CXp3rzghCdA)
   - :camera: Gallery ImagePicker : Mobile [Video & Code 1](https://youtu.be/CXp3rzghCdA), [Video & Code 2](https://youtu.be/JB4OhjSvUwY)
   - :camera: QR Scanner : Mobile [Video & Code](https://youtu.be/CnhjRKHI9bs)
   - :camera: Image Cropper : Mobile [Video & Code](https://youtu.be/ggUYy7LBl7k)
   - :camera: Image File(s) Upload : Mobile [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/ImageFilePage.dart)
   - :camera: View Capture [Video & Code](https://youtu.be/tec9sVBy9Ks)
-
-  - Mic Record : Mobile [Video & Code](https://youtu.be/VuVe-319WH4)
-  - Audio Play : Mobile [Video & Code](https://youtu.be/jgZvLRri5Mg)
-
-  - File Folder : Mobile [Video & Code](https://youtu.be/eFxyAQamxWU)
-  - (Bio)Fingerprint Recognition : Mobile [Video & Code](https://youtu.be/Xu-HTCux0pI)
-  - Permission : Mobile [Video & Code](https://youtu.be/3JvN2HL6XR4)
-  - VideoPlayer(exmaple: Youtube) : Mobile [Video & Code](https://youtu.be/rqtTmj4LTTI)
-  - Call : Mobile [Video & Code](https://youtu.be/0KRexOBc4RU)
-  - Share : Mobile [Video & Code](https://youtu.be/zxNb3GSXKEA) 
-  - URL Launcher : Mobile [Video & Code](https://youtu.be/k7qBTJmAz2Y)
-  - Contact : Mobile [Video & Code](https://youtu.be/z5wcYwjyAno)
-  - PDF : Mobile [Video & Code](https://youtu.be/HPnWCSZs1-I?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
-  - Mobile Native Channel : Mobile [Android Video & Code](https://youtu.be/pINJvBtKVQY), [IOS Video & Code](https://youtu.be/5pPnj1d_A48)
-  - Bluetooth : Mobile [Video & Code](https://youtu.be/zMrmXaTNRHE)
-  - Notification - Local / FCM / Media : Mobile [Local Video & Code](https://youtu.be/_1Fbdvy13Wk), [FCM Video & Code 1](https://youtu.be/QtlVHAn1tt8), [FCM Code 2](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/MyApp.dart),[Media Video & Code](https://youtu.be/YRi3VXuyD9c) , [OneSignal Push Notification 1](https://youtu.be/l6DYhPbc5L0?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ), [OneSignal Push Notification 2](https://youtu.be/Gp2zyzXVyx8?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
-  - GeoLocation : Mobile [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/UserLocation.dart)
-  - WebView - JS Channel : Mobile [Video & Code](https://youtu.be/tCBOBf6S5hQ), [Vue.js & Flutter Webview Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/VuePage.dart) / [Vue.js Code CDN 1](https://github.com/doyle-flutter/basicexpress/blob/master/views/vuetest.html) / [Vue.js Code CDN 2](https://github.com/doyle-flutter/basicexpress/blob/master/views/vueupgrade.html) / [Vue.js Code CDN 3](https://github.com/doyle-flutter/basicexpress/blob/master/views/designVue1.html)
-  - Google Admob [Video & Code 1](https://youtu.be/r8L4khb8T28), [Video & Code 2](https://youtu.be/opJrA1iYvbw)
-  - AR Core : Mobile [Preview 1](https://youtu.be/SoH5uzGGMvM), [Preview 2](https://youtu.be/SoH5uzGGMvM)
-  - ML Kit - Google Firebase : Mobile [Video & Code](https://youtu.be/Ry3-5K2IbKI)
-  - Android ForegroundService [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/AndForeground.dart)
-  - Network 
+  - :+1: Permission : Mobile [Video & Code](https://youtu.be/3JvN2HL6XR4)
+  - :microphone: Mic Record : Mobile [Video & Code](https://youtu.be/VuVe-319WH4)
+  - :speaker: Audio Play : Mobile [Video & Code](https://youtu.be/jgZvLRri5Mg)
+  - :vibration_mode: Vibrator : Mobile [Video & Code](https://youtu.be/PB-IJQOTh8A)
+  - :file_folder: PDF : Mobile [Video & Code](https://youtu.be/HPnWCSZs1-I?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
+  - :file_folder: File Folder : Mobile [Video & Code](https://youtu.be/eFxyAQamxWU)
+  - :link: Share : Mobile [Video & Code](https://youtu.be/zxNb3GSXKEA) 
+  - :link: URL Launcher : Mobile [Video & Code](https://youtu.be/k7qBTJmAz2Y)  
+  - :sparkler: VideoPlayer(exmaple: Youtube) : Mobile [Video & Code](https://youtu.be/rqtTmj4LTTI)
+  - :calling: Call : Mobile [Video & Code](https://youtu.be/0KRexOBc4RU)
+  - :calling: Contact : Mobile [Video & Code](https://youtu.be/z5wcYwjyAno)
+  - :bell: Notification - Local / FCM / Media : Mobile [Local Video & Code](https://youtu.be/_1Fbdvy13Wk), [FCM Video & Code 1](https://youtu.be/QtlVHAn1tt8), [FCM Code 2](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/MyApp.dart),[Media Video & Code](https://youtu.be/YRi3VXuyD9c) , [OneSignal Push Notification 1](https://youtu.be/l6DYhPbc5L0?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ), [OneSignal Push Notification 2](https://youtu.be/Gp2zyzXVyx8?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
+  - :link: Bluetooth : Mobile [Video & Code](https://youtu.be/zMrmXaTNRHE)
+  - :point_up_2: (Bio)Fingerprint Recognition : Mobile [Video & Code](https://youtu.be/Xu-HTCux0pI)
+  - :pushpin: GeoLocation : Mobile [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/UserLocation.dart)
+  - :fireworks: Google Admob [Video & Code 1](https://youtu.be/r8L4khb8T28), [Video & Code 2](https://youtu.be/opJrA1iYvbw)
+  - :crystal_ball: AR Core : Mobile [Preview 1](https://youtu.be/SoH5uzGGMvM), [Preview 2](https://youtu.be/SoH5uzGGMvM)
+  - :computer: ML Kit - Google Firebase : Mobile [Video & Code](https://youtu.be/Ry3-5K2IbKI)
+  - :link: Mobile Native Channel : Mobile [Android Video & Code](https://youtu.be/pINJvBtKVQY), [IOS Video & Code](https://youtu.be/5pPnj1d_A48)
+  - :link: WebView - JS Channel : Mobile [Video & Code](https://youtu.be/tCBOBf6S5hQ), [Vue.js & Flutter Webview Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/VuePage.dart) / [Vue.js Code CDN 1](https://github.com/doyle-flutter/basicexpress/blob/master/views/vuetest.html) / [Vue.js Code CDN 2](https://github.com/doyle-flutter/basicexpress/blob/master/views/vueupgrade.html) / [Vue.js Code CDN 3](https://github.com/doyle-flutter/basicexpress/blob/master/views/designVue1.html)
+  - :link: Android ForegroundService [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/AndForeground.dart)
+  - :link: Network 
     - HTTP(s) [Video & Code](https://youtu.be/V81YWTlq6HM)
     - Socket.io - Client & Node.js - Server [Preview](https://youtu.be/QkMiMgkTSy8), [Code](https://youtu.be/iJ6e_x1QNvc), [Video & Code](https://youtu.be/5RKc6iImwG8)
-  - Database
+  - :open_file_folder: Database
     - Hive - Client [Video & Code](https://youtu.be/lKkBMhrCfyA)
     - SharedPreference - Client [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/SharedPref.dart)
     - Sqflite - Server [Video & Code](https://youtu.be/NOGR2XKTb5s). [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/LocalSqflite.dart)
-  - H/W
+  - :link: H/W
     - ARDUINO, PHILIPS Hue 4.0, MIDI [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4NAkXBar_UOCv4YZs2q4as4)
 
 ## One Source Multi Platform
-- WEB(2021 production version ?! :pray: )
+- :link: WEB(2021 production version ?! :pray: )
   - Setup & Version UPdate [Video & Code](https://youtu.be/0_mQUS8Y8c0)
   - Router - Navigator 2.0 [Video & Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
     - (1) StaticPath
@@ -132,7 +129,7 @@
     - AWS
     - Firebase
     - Cafe24
-- APP
+- :iphone: APP
   - Setup
   - Router - Navigator 1.0 [Video & Code 1](https://youtu.be/kNa6ozCNocs), [Video & Code 2](https://youtu.be/IiiH7hslfCA), [Video & Code 3](https://youtu.be/skH3whrNtDs)
   - Func
@@ -140,14 +137,14 @@
   - Deploy
     - Android APK : GooglePlay [Video](https://youtu.be/Th5hK7aS-Og?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
     - IOS : AppStore
-- Desktop
+- :computer: Desktop
   - MacOS Test [Video](https://youtu.be/S-QhsVSyLCQ?list=PLIKnSA4GMR4NmOMAMmYMib9cfX-PcHicM)
   - Router
   - Func
     - PlattformCheck
   - Deploy
 
-## with Server Node.js(Express.js)
+## :link: with Server Node.js(Express.js)
 - Node.js(Express) [Code](https://github.com/doyle-flutter/basicexpress)
 - KAKAO 
   - Login [Preview](https://youtu.be/EeMTlhnle3w), [Video & Code](https://youtu.be/rQ8_CUE3v5I)
