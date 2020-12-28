@@ -1,7 +1,7 @@
 # Flutter WEB APP DESKTOP
 (ver : 1.26.0-1.0.pre)  
 
-### Youtube : 제임쓰 Dev 
+### Youtube : 제임쓰 Dev :kr:
 
 <img src="https://avatars1.githubusercontent.com/u/56661529?s=460&u=a78acbb3fc77487cd2078e460ba19d8cc751b2f2&v=4" width="30%" />
 
@@ -14,6 +14,7 @@
 - [x] Modeling - OpenAPI 활용
   - [x] 서울 열린 데이터 광장(서울시 구별 주민등록 인구) [Video & Code](https://youtu.be/WCPnJrDhCdI)
   - [x] openWeather 날씨[Video & Code](https://youtu.be/tLpqycMNflI)
+- [x] etc - ServerSide [Angel Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4M3AG5ZxS_R8NgWXqfKQfz1)
 
 ### Flutter 
 
@@ -80,20 +81,25 @@
   - [x] PDF : Mobile [Video & Code](https://youtu.be/HPnWCSZs1-I?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
   - [x] Mobile Native Channel : Mobile [Android Video & Code](https://youtu.be/pINJvBtKVQY), [IOS Video & Code](https://youtu.be/5pPnj1d_A48)
   - [x] Bluetooth : Mobile [Video & Code](https://youtu.be/zMrmXaTNRHE)
-  - [x] Notification - Local / FCM / Media : Mobile [Local Video & Code](https://youtu.be/_1Fbdvy13Wk), [FCM Video & Code](https://youtu.be/QtlVHAn1tt8), [Media Video & Code](https://youtu.be/YRi3VXuyD9c) , [OneSignal Push Notification 1](https://youtu.be/l6DYhPbc5L0?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ), [OneSignal Push Notification 2](https://youtu.be/Gp2zyzXVyx8?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
+  - [x] Notification - Local / FCM / Media : Mobile [Local Video & Code](https://youtu.be/_1Fbdvy13Wk), [FCM Video & Code 1](https://youtu.be/QtlVHAn1tt8), [FCM Code 2](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/MyApp.dart),[Media Video & Code](https://youtu.be/YRi3VXuyD9c) , [OneSignal Push Notification 1](https://youtu.be/l6DYhPbc5L0?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ), [OneSignal Push Notification 2](https://youtu.be/Gp2zyzXVyx8?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
   - [x] Image Cropper : Mobile [Video & Code](https://youtu.be/ggUYy7LBl7k)
+  - [x] Image File(s) Upload : Mobile [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/ImageFilePage.dart)
   - [x] View Capture [Video & Code](https://youtu.be/tec9sVBy9Ks)
-  - [x] WebView - Channel : Mobile [Video & Code](https://youtu.be/tCBOBf6S5hQ)
+  - [x] GeoLocation : Mobile [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/UserLocation.dart)
+  - [x] WebView - JS Channel : Mobile [Video & Code](https://youtu.be/tCBOBf6S5hQ), [Vue.js & Flutter Webview Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/VuePage.dart) / [Vue.js Code CDN 1](https://github.com/doyle-flutter/basicexpress/blob/master/views/vuetest.html) / [Vue.js Code CDN 2](https://github.com/doyle-flutter/basicexpress/blob/master/views/vueupgrade.html) / [Vue.js Code CDN 3](https://github.com/doyle-flutter/basicexpress/blob/master/views/designVue1.html)
   - [x] Google Admob [Video & Code 1](https://youtu.be/r8L4khb8T28), [Video & Code 2](https://youtu.be/opJrA1iYvbw)
   - [x] AR Core : Mobile [Preview 1](https://youtu.be/SoH5uzGGMvM), [Preview 2](https://youtu.be/SoH5uzGGMvM)
   - [x] ML Kit - Google Firebase : Mobile [Video & Code](https://youtu.be/Ry3-5K2IbKI)
+  - [x] Android ForegroundService [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/AndForeground.dart)
   - [x] Network 
     - [x] HTTP(s) [Video & Code](https://youtu.be/V81YWTlq6HM)
     - [x] Socket.io - Client & Node.js - Server [Preview](https://youtu.be/QkMiMgkTSy8), [Code](https://youtu.be/iJ6e_x1QNvc), [Video & Code](https://youtu.be/5RKc6iImwG8)
   - [x] Database
     - [x] Hive - Client [Video & Code](https://youtu.be/lKkBMhrCfyA)
     - [x] SharedPreference - Client [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/SharedPref.dart)
-    - [x] Sqflite - Server [Video & Code](https://youtu.be/NOGR2XKTb5s)
+    - [x] Sqflite - Server [Video & Code](https://youtu.be/NOGR2XKTb5s). [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/LocalSqflite.dart)
+  - [x] H/W
+    - [x] ARDUINO, PHILIPS Hue 4.0, MIDI [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4NAkXBar_UOCv4YZs2q4as4)
 
 ## One Source Multi Platform
 - [ ] WEB(2021 production version ?! :pray: )
@@ -123,7 +129,7 @@
     - [x] Android APK : GooglePlay [Video](https://youtu.be/Th5hK7aS-Og?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
     - [ ] IOS : AppStore
 - [ ] Desktop
-  - [ ] Setup
+  - [x] MacOS Test [Video](https://youtu.be/S-QhsVSyLCQ?list=PLIKnSA4GMR4NmOMAMmYMib9cfX-PcHicM)
   - [ ] Router
   - [ ] Func
     - [ ] PlattformCheck
@@ -144,7 +150,7 @@
   - [x] MySQL - Server [Video & Code with 생활코딩](https://youtu.be/cl4S2e3oaAI)
   - [x] Redis - Server [Video & Code 1](https://youtu.be/gNzmOjafjfA), [Video & Code 2](https://youtu.be/8T-6ZCK-aPk)
   - [ ] Sqlite - Server (Video & Code)
-- [x] GraphQL [Code](https://github.com/doyle-flutter/basicexpress/blob/master/routers/graphqlrouter.js)
+- [x] GraphQL [Server Code](https://github.com/doyle-flutter/basicexpress/blob/master/routers/graphqlrouter.js), [Flutter Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/GraphQLPage.dart)
 - [x] Mailer [Video & Code](https://youtu.be/-en3chRAZc8?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
 - [ ] Nice 휴대폰 인증 (Video & Code)
 - [ ] HTTPS 인증서
@@ -153,6 +159,22 @@
 - 기존 WEB 프로젝트에 Flutter WEB 경로(Path) 추가하기
 - [x] Node.JS & HTML / React & Flutter [Code](https://github.com/doyle-flutter/flutterPlatformAll/tree/main/server)
 - [ ] Node.js & HTML / Svelte & Flutter (Code...)
+
+## with Firebase :fire:
+- Firebase Cloud Messaging
+- RealTime Database 
+- Cloud Database
+- ML kit
+- [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4Oke0mIuD773zl8VBOUa3UO)
+
+## with 생활코딩
+- Node.js [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4Ow3vkUMUw7FaCrXL9CDOmT)
+- Airtable [Video & Code](https://youtu.be/5Qsd_RXl_mY?list=PLIKnSA4GMR4Ow3vkUMUw7FaCrXL9CDOmT) 
+- Airtable & Image [Video & Code](https://youtu.be/NbaDSFbahAY?list=PLIKnSA4GMR4Ow3vkUMUw7FaCrXL9CDOmT) 
+
+## with 생존코딩
+- Native Channel Methods [Video & Code Tutorial 50, 63~65](https://youtube.com/playlist?list=PLIKnSA4GMR4OJsROJK8w0ZIEFuCabgFek)
+- MVVM 응용 네이버 뉴스 API [Video & Code 응용+, 응용++](https://youtube.com/playlist?list=PLIKnSA4GMR4OJsROJK8w0ZIEFuCabgFek)
 
 ## Make My Package
 - [x] How to Make MyPackage ? [Video & Code](https://youtu.be/f9BOrMQrj4o)
