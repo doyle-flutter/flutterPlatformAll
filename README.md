@@ -18,7 +18,7 @@
 
 ### Flutter 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8SzOTScxCnYc0K55nikX6NsEukLKONYl6g&usqp=CAU" width="30%" />
+<img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width="30%" />
 
 - :v: Flutter(WEB & APP & Desktop)
   - SETUP [Windows](https://youtu.be/ZOSQHBTWQZY?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ) / Mac
