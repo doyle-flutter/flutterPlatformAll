@@ -9,7 +9,7 @@
 
 <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="10%" />
 
-- :star: 문법 Grammar [Code_VarFunc 1](https://youtu.be/g5km3WGYm40), [Code_Class 2](https://youtu.be/vroq4fr8Z8s), [Code_String 3](https://youtu.be/0bsDSlD7_zo), [Code_List 4](https://youtu.be/2TEdTA_HRVg)
+- :star: 문법 Grammar [Video & Code 1](https://youtu.be/g5km3WGYm40), [Video & Code 2](https://youtu.be/vroq4fr8Z8s), [Video & Code 3](https://youtu.be/0bsDSlD7_zo), [Video & Code 4](https://youtu.be/2TEdTA_HRVg)
 - Future async & await [Video & Code](https://youtu.be/qM7vEh4L55Y)
 - Modeling - OpenAPI 활용
   - 서울 열린 데이터 광장(서울시 구별 주민등록 인구) [Video & Code](https://youtu.be/WCPnJrDhCdI)
@@ -23,8 +23,10 @@
 - :v: Flutter(WEB & APP & Desktop)
   - SETUP [Windows](https://youtu.be/ZOSQHBTWQZY?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ) / Mac
   - Update Version Apply & Change [Prev](https://youtu.be/W1f0v9jf4gE) / [1.22.5](https://youtu.be/ipnPzfgmTHU?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
-  - :star2: UI
-    - Material Design Widget(basic) [Tutorial Video](https://youtube.com/playlist?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
+  - :star2: Widget UI [Tutorial Video](https://youtube.com/playlist?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
+    <details>
+      <summary>Material Design Widget</summary>
+
       - Scaffold : Tutorial 1
       - Container : Tutorial 2
       - Text : Tutorial 3
@@ -53,7 +55,14 @@
       - NotificationListner & BuildContext - Builder  : Tutorial 40
       - Animation - CustomDrawer : Tutorial 42 / 43
       - PIP : Tutorial 44
-    - Cupertino Design
+    </details>
+
+    <details>
+      <summary>Cupertino Design</summary>
+
+      - ...
+    </details>
+
     - Design Sample
       - Music App [Video & Code](https://youtu.be/XUhdzF3v974)
   - State
@@ -63,13 +72,20 @@
     - MobX
     - Redux
     - ...
-  - UI LifeCycle & System LifeCycle [UI Video & Code 1](https://youtu.be/BnoWa4jZykM), [UI Video & Code 2](https://youtu.be/BnoWa4jZykM), [System Video & Code 3](https://youtu.be/NDanGQZb3iQ)
+  - :+1: UI LifeCycle & System LifeCycle [UI Video & Code 1](https://youtu.be/BnoWa4jZykM), [UI Video & Code 2](https://youtu.be/BnoWa4jZykM), [System Video & Code 3](https://youtu.be/NDanGQZb3iQ)
   - Vibrator : Mobile [Video & Code](https://youtu.be/PB-IJQOTh8A)
-  - Camera Mobile [Video & Code](https://youtu.be/CXp3rzghCdA)
-  - Gallery ImagePicker : Mobile [Video & Code 1](https://youtu.be/CXp3rzghCdA), [Video & Code 2](https://youtu.be/JB4OhjSvUwY)
-  - File Folder : Mobile [Video & Code](https://youtu.be/eFxyAQamxWU)
+
+  - :camera: Camera Mobile [Video & Code](https://youtu.be/CXp3rzghCdA)
+  - :camera: Gallery ImagePicker : Mobile [Video & Code 1](https://youtu.be/CXp3rzghCdA), [Video & Code 2](https://youtu.be/JB4OhjSvUwY)
+  - :camera: QR Scanner : Mobile [Video & Code](https://youtu.be/CnhjRKHI9bs)
+  - :camera: Image Cropper : Mobile [Video & Code](https://youtu.be/ggUYy7LBl7k)
+  - :camera: Image File(s) Upload : Mobile [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/ImageFilePage.dart)
+  - :camera: View Capture [Video & Code](https://youtu.be/tec9sVBy9Ks)
+
   - Mic Record : Mobile [Video & Code](https://youtu.be/VuVe-319WH4)
   - Audio Play : Mobile [Video & Code](https://youtu.be/jgZvLRri5Mg)
+
+  - File Folder : Mobile [Video & Code](https://youtu.be/eFxyAQamxWU)
   - (Bio)Fingerprint Recognition : Mobile [Video & Code](https://youtu.be/Xu-HTCux0pI)
   - Permission : Mobile [Video & Code](https://youtu.be/3JvN2HL6XR4)
   - VideoPlayer(exmaple: Youtube) : Mobile [Video & Code](https://youtu.be/rqtTmj4LTTI)
@@ -77,14 +93,10 @@
   - Share : Mobile [Video & Code](https://youtu.be/zxNb3GSXKEA) 
   - URL Launcher : Mobile [Video & Code](https://youtu.be/k7qBTJmAz2Y)
   - Contact : Mobile [Video & Code](https://youtu.be/z5wcYwjyAno)
-  - QR Scanner : Mobile [Video & Code](https://youtu.be/CnhjRKHI9bs)
   - PDF : Mobile [Video & Code](https://youtu.be/HPnWCSZs1-I?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
   - Mobile Native Channel : Mobile [Android Video & Code](https://youtu.be/pINJvBtKVQY), [IOS Video & Code](https://youtu.be/5pPnj1d_A48)
   - Bluetooth : Mobile [Video & Code](https://youtu.be/zMrmXaTNRHE)
   - Notification - Local / FCM / Media : Mobile [Local Video & Code](https://youtu.be/_1Fbdvy13Wk), [FCM Video & Code 1](https://youtu.be/QtlVHAn1tt8), [FCM Code 2](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/MyApp.dart),[Media Video & Code](https://youtu.be/YRi3VXuyD9c) , [OneSignal Push Notification 1](https://youtu.be/l6DYhPbc5L0?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ), [OneSignal Push Notification 2](https://youtu.be/Gp2zyzXVyx8?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
-  - Image Cropper : Mobile [Video & Code](https://youtu.be/ggUYy7LBl7k)
-  - Image File(s) Upload : Mobile [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/ImageFilePage.dart)
-  - View Capture [Video & Code](https://youtu.be/tec9sVBy9Ks)
   - GeoLocation : Mobile [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/UserLocation.dart)
   - WebView - JS Channel : Mobile [Video & Code](https://youtu.be/tCBOBf6S5hQ), [Vue.js & Flutter Webview Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/VuePage.dart) / [Vue.js Code CDN 1](https://github.com/doyle-flutter/basicexpress/blob/master/views/vuetest.html) / [Vue.js Code CDN 2](https://github.com/doyle-flutter/basicexpress/blob/master/views/vueupgrade.html) / [Vue.js Code CDN 3](https://github.com/doyle-flutter/basicexpress/blob/master/views/designVue1.html)
   - Google Admob [Video & Code 1](https://youtu.be/r8L4khb8T28), [Video & Code 2](https://youtu.be/opJrA1iYvbw)
@@ -136,6 +148,7 @@
   - Deploy
 
 ## with Server Node.js(Express.js)
+- Node.js(Express) [Code](https://github.com/doyle-flutter/basicexpress)
 - KAKAO 
   - Login [Preview](https://youtu.be/EeMTlhnle3w), [Video & Code](https://youtu.be/rQ8_CUE3v5I)
   - Pay [Video & Code 1](https://youtu.be/c_laRoqgio8), [Video & Code 2](https://youtu.be/KTm2xwoo6MI)
@@ -145,7 +158,7 @@
   - Login 네아로 [Preview](https://youtu.be/8LlkCQXQ8TA), [Video & Code](https://youtu.be/lrTZQ_xkDGw)
   - API : Movie 영화 정보 [Video & Code](https://youtu.be/yRQvj7Y9zTQ)
   - API : News 뉴스 정보 [Preview](https://youtu.be/Lsqbon1ZByw), [Video & Code](https://youtu.be/7zaFZbuwyz4)
-- ImPort : PG사 결제 연동 서비스 [Video & Code](https://youtu.be/nMWJP4P6ZRg)
+- IamPort : PG사 결제 연동 서비스 [Video & Code](https://youtu.be/nMWJP4P6ZRg)
 - Database
   - MySQL - Server [Video & Code with 생활코딩](https://youtu.be/cl4S2e3oaAI)
   - Redis - Server [Video & Code 1](https://youtu.be/gNzmOjafjfA), [Video & Code 2](https://youtu.be/8T-6ZCK-aPk)
@@ -167,12 +180,12 @@
 - ML kit
 - [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4Oke0mIuD773zl8VBOUa3UO)
 
-## with 생활코딩
+## with 생활코딩 :+1:
 - Node.js [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4Ow3vkUMUw7FaCrXL9CDOmT)
 - Airtable [Video & Code](https://youtu.be/5Qsd_RXl_mY?list=PLIKnSA4GMR4Ow3vkUMUw7FaCrXL9CDOmT) 
 - Airtable & Image [Video & Code](https://youtu.be/NbaDSFbahAY?list=PLIKnSA4GMR4Ow3vkUMUw7FaCrXL9CDOmT) 
 
-## with 생존코딩
+## with 생존코딩 :+1:
 - Native Channel Methods [Video & Code Tutorial 50, 63~65](https://youtube.com/playlist?list=PLIKnSA4GMR4OJsROJK8w0ZIEFuCabgFek)
 - MVVM 응용 네이버 뉴스 API [Video & Code 응용+, 응용++](https://youtube.com/playlist?list=PLIKnSA4GMR4OJsROJK8w0ZIEFuCabgFek)
 
