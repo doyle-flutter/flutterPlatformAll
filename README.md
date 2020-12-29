@@ -123,7 +123,7 @@
     - (4) Page Move(push, pop)
   - Func
     - PlattformCheck : isWeb [Video & Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
-    - IFrame : (Video & Code ...)
+    - IFrame : (Video...), [Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
   - Deploy & Node.js(Express) - HTML
     - Localhost
       - Node.js Server [Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/server/app.js) 
