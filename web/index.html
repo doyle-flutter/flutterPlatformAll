@@ -1,6 +1,10 @@
 <!-- Flutter -->
 <!-- 
+  export PATH="$PATH:/Users/doylekim/Downloads/flutter/bin"
   [ WEB Run ]
+  > flutter run -d chrome --no-sound-null-safety
+  
+  [ WEB Build ]
   > flutter build web --release --no-sound-null-safety 
 -->
 
@@ -48,26 +52,35 @@
   <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
   <script type="text/babel">
     "use strict"
-    
+
     // FunctionConponent
     const styles = {
       root: {
         color: 'white',
         position: 'fixed',
         top: '200px',
-        left: '300px',
-        right: '300px',
-        height:'200px',
+        left: '50%',
+        transform: 'translate(-50%,0)',
         backgroundColor: 'red',
         zIndex: 99999,
         margin: 0,
+        padding: '20px',
         textAlign: 'center',
-        lineHeight: '200px',
         fontWeight: 'bold',
       }
     }
 
-    const MainApp = (props) => (<div><p style={styles.root}>아임 리액트!</p></div>);
+    const handle = () => {
+      const reactDiv = document.getElementById('reactDiv');
+      reactDiv.style.display = 'none';
+    }
+    const MainApp = (props) => (
+      <div id="reactDiv" style={styles.root}>
+        <p>리액트 팝업창 !</p>
+        <div>
+          <button onClick={handle}>Flutter Start</button>
+        </div>
+      </div>);
 
     // ClassComponent
     // class MainApp extends React.Component{

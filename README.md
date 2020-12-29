@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoyle-flutter/flutterPlatformAll&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # Flutter WEB APP DESKTOP
 (ver : 1.26.0-1.0.pre)  
 
@@ -121,6 +123,7 @@
     - (4) Page Move(push, pop)
   - Func
     - PlattformCheck : isWeb [Video & Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
+    - IFrame : (Video & Code ...)
   - Deploy & Node.js(Express) - HTML
     - Localhost
       - Node.js Server [Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/server/app.js) 
@@ -170,22 +173,31 @@
 - Node.JS & HTML / React & Flutter [Code](https://github.com/doyle-flutter/flutterPlatformAll/tree/main/server)
 - Node.js & HTML / Svelte & Flutter (Code...)
 
-## with Firebase :fire:
+## :fire: with Firebase
 - Firebase Cloud Messaging
 - RealTime Database 
 - Cloud Database
 - ML kit
 - [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4Oke0mIuD773zl8VBOUa3UO)
 
-## with 생활코딩 :+1:
+## :+1: with 생활코딩
 - Node.js [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4Ow3vkUMUw7FaCrXL9CDOmT)
 - Airtable [Video & Code](https://youtu.be/5Qsd_RXl_mY?list=PLIKnSA4GMR4Ow3vkUMUw7FaCrXL9CDOmT) 
 - Airtable & Image [Video & Code](https://youtu.be/NbaDSFbahAY?list=PLIKnSA4GMR4Ow3vkUMUw7FaCrXL9CDOmT) 
 
-## with 생존코딩 :+1:
+## :+1: with 생존코딩
 - Native Channel Methods [Video & Code Tutorial 50, 63~65](https://youtube.com/playlist?list=PLIKnSA4GMR4OJsROJK8w0ZIEFuCabgFek)
 - MVVM 응용 네이버 뉴스 API [Video & Code 응용+, 응용++](https://youtube.com/playlist?list=PLIKnSA4GMR4OJsROJK8w0ZIEFuCabgFek)
 
 ## Make My Package
 - How to Make MyPackage ? [Video & Code](https://youtu.be/f9BOrMQrj4o)
 - Example : airtableJ [Code](https://github.com/doyle-flutter/airtablej), [Pub](https://pub.dev/packages/airtablej)
+
+## :star: How to
+- :wave: Beginner : (Flutter...) & (Server...)
+- :point_up: Intermediate : (Flutter...) & (Server...)
+- :v: Advanced - Architecture(Provider Pattern)
+  - MVC : (Flutter...) & (Server...)
+  - MVC + : (Flutter...) & (Server...)
+  - MVVM : (Flutter...) & (Server...)
+  - MVVM + : (Flutter...) & (Server...)

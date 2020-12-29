@@ -4,6 +4,10 @@
 import 'package:all3/pages/func/hivePage.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
+import 'package:flutter/services.dart';
+import 'dart:html' as html;
+import 'dart:ui' as ui;
+
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
@@ -114,6 +118,29 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
+  @override
+  void initState() {
+    const bool kIsWeb = identical(0, 0.0);
+    if(kIsWeb){
+      // [ IFrame 주의 ]
+      // ui.platformViewRegistry
+      // 코드줄에 오류가 나도 무시해도 됩니다
+      // APP 으로 구동 할 경우 해당 내용과 함께
+      // html, ui 패키지를 지원야합니다
+      // production version 에서는 수정 되거나 import 방식이 변경 될 수 있습니다
+      // - import 'dart:html' as html;
+      // - import 'dart:ui' as ui;
+
+      final html.IFrameElement _iframeElement = html.IFrameElement();
+      _iframeElement.src = 'https://www.youtube.com/embed/IiX6Y-U6S18';
+      ui.platformViewRegistry.registerViewFactory(
+        'html.iframeElement',
+        (int viewId) => _iframeElement,
+      );
+    }
+    super.initState();
+  }
+
   void _incrementCounter() {
     setState(() {
       _counter++;
@@ -151,18 +178,31 @@ class _MyHomePageState extends State<MyHomePage> {
             )
           ],
         ),
-        body: Center(
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: <Widget>[
-              Text(
-                'You have pushed the button this many times:',
-              ),
-              Text(
-                '$_counter',
-                style: Theme.of(context).textTheme.headline4,
-              ),
-            ],
+        body: SingleChildScrollView(
+          child: Container(
+            width: MediaQuery.of(context).size.width,
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: <Widget>[
+                identical(0, 0.0)
+                ? Container(
+                  height: MediaQuery.of(context).size.width/2,
+                  width: MediaQuery.of(context).size.width/2,
+                  margin: EdgeInsets.all(20),
+                  child: HtmlElementView(
+                    viewType: 'html.iframeElement',
+                  ),
+                )
+                : Container(),
+                Text(
+                  'You have pushed the button this many times:',
+                ),
+                Text(
+                  '$_counter',
+                  style: Theme.of(context).textTheme.headline4,
+                ),
+              ],
+            ),
           ),
         ),
         floatingActionButton: FloatingActionButton(
