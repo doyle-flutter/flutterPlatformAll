@@ -32,6 +32,7 @@ dependencies:
   http: ^0.12.2
   hive: ^1.4.4+1
   hive_flutter: ^0.3.1
+  shared_preferences: ^0.5.12+4
 
 dev_dependencies:
   flutter_test:

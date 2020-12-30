@@ -1,7 +1,16 @@
+// [ SETUP ~ RUN ]
+// 0. export PATH="$PATH:~/bin"
+// 1. flutter channel dev
+// 2. flutter upgrade
+// 3. flutter config --enable-web
+// (> flutter pub get)
+// 4. flutter run -d chrome --no-sound-null-safety
+
 // Flutter 1.26.0-1.0.pre
 // -> APP : > flutter run --no-sound-null-safety
 // -> WEB : > flutter run -d chrome --no-sound-null-safety
 import 'package:all3/pages/func/hivePage.dart';
+import 'package:all3/pages/func/sharedPref.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/services.dart';
@@ -85,6 +94,13 @@ class MyApp extends StatelessWidget {
           return MaterialPageRoute(
             settings: RouteSettings(name: '/b'),
             builder: (context) => new PageTwo()
+          );
+        }
+
+        if(uri.pathSegments.first == 'sharedPrefPage'){
+          return MaterialPageRoute(
+            settings: RouteSettings(name: '/sharedPrefPage'),
+            builder: (BuildContext context) => SharedPrefPage()
           );
         }
 
@@ -201,6 +217,15 @@ class _MyHomePageState extends State<MyHomePage> {
                   '$_counter',
                   style: Theme.of(context).textTheme.headline4,
                 ),
+                TextButton(
+                  onPressed: () => Navigator.of(context).push(
+                    MaterialPageRoute(
+                      settings: RouteSettings(name: '/sharedPrefPage'),
+                      builder: (BuildContext context) => SharedPrefPage()
+                    )
+                  ), 
+                  child: Text("SharedPref")
+                )
               ],
             ),
           ),
