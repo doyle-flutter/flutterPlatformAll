@@ -107,7 +107,7 @@
     - Socket.io - Client & Node.js - Server [Preview](https://youtu.be/QkMiMgkTSy8), [Code](https://youtu.be/iJ6e_x1QNvc), [Video & Code](https://youtu.be/5RKc6iImwG8)
   - :open_file_folder: Database Cliten
     - Hive - Client [Video & Code](https://youtu.be/lKkBMhrCfyA)
-    - SharedPreference - Client [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/SharedPref.dart), (Video & Code...)
+    - SharedPreference - Client [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/SharedPref.dart), [Video & Code](https://youtu.be/BKCWaXDPJtc)
     - Sqflite - Server [Video & Code](https://youtu.be/NOGR2XKTb5s). [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/LocalSqflite.dart)
   - :link: H/W
     - ARDUINO, PHILIPS Hue 4.0, MIDI [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4NAkXBar_UOCv4YZs2q4as4)
