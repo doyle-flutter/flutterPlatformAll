@@ -13,7 +13,6 @@ class _SharedPrefPageState extends State<SharedPrefPage> {
   @override
   void didChangeDependencies() {
     Future.microtask(() async{
-      if(!mounted) return null;
       await SharedPreferences.getInstance()
         .then((SharedPreferences pref) async{
           bool check = await pref.setString("data", "VALUE");
@@ -21,9 +20,24 @@ class _SharedPrefPageState extends State<SharedPrefPage> {
             this.value = "DB ERROR";
             return null;
           }
+          // (1) TEST .catchError()
+          // throw 'err';
+          
+          // (2) TEST .timeout()
+          // return Future.delayed(Duration(seconds: 20), () async{
+          //   return pref;
+          // });
+
+          // (3) TEST
           return pref;
         })
-        .then((SharedPreferences? pref) => this.value = pref!.getString("data"));
+        .then((SharedPreferences? pref) => this.value = pref!.getString("data"))
+        .catchError((Object o){
+          this.value = "DB ERROR - Catch";
+          return 'err';
+        }, test: (Object o) => true)
+        .timeout(Duration(seconds: 10), onTimeout: () async =>  this.value = "DB ERROR - TimeOUT");
+      if(!mounted) return null;
       setState(() {});
       return;
     });
