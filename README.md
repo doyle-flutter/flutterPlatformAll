@@ -70,7 +70,7 @@
   - :star: State
     - Stateful & Stateless [Video & Code 1](https://youtu.be/BnoWa4jZykM), [Video Code 2](https://youtu.be/BnoWa4jZykM)
     - :+1: Provider [Video & Code 1](https://youtu.be/ny0TSVxAd-Q), [Video & Code 2](https://youtu.be/WXrYCjipLcg), [Video & Code 3](https://youtu.be/MXsl7XwAtYs)
-    - GetX
+    - GetX [Video & Code 1 Statement](https://youtu.be/D3EzR9N3xZQ)
     - MobX
     - Redux
     - ...
