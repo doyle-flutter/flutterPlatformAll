@@ -66,6 +66,8 @@
       - CupertinoPageScaffold : Tutorial 1-1
       - CupertinoTabScaffold : Tutorial 1-1
       - CupertinoNavigationBar : 1-1
+      - showCupertinoDialog & CupertinoAlertDialog: 2-1
+      - showCupertinoModalPopup & CupertinoActionSheet : 2-1
       - ...
     </details>
 
@@ -199,7 +201,7 @@
 
 ## :star: How to
 - :wave: Beginner : 
-  - 전자 공시 시스템 : 최근 3개월 공시 기업 내용 조회 어플( 입문자 [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/DartStock.dart) / [Video-Test](https://youtu.be/vv5qGquwVck) )
+  - 전자 공시 시스템 : 최근 3개월 공시 기업 내용 조회 어플( 입문자 [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/DartStock.dart) / [Video-Test](https://youtu.be/vv5qGquwVck) / [Video-Des]())
   - (Flutter...) & (Server...)
 - :point_up: Intermediate : (Flutter...) & (Server...)
 - :v: Advanced - Architecture(Provider Pattern)
