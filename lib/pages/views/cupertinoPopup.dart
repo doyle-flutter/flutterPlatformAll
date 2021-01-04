@@ -23,10 +23,15 @@ class CupertinoPopUp extends StatelessWidget {
                 title: Text("쿠퍼티노 팝업"),
                 content: Text("팝업 콘텐츠"),
                 actions: [
-                  TextButton(child: Text("닫기"),onPressed: () => Navigator.of(context)!.pop())
+                  // nullSafaty 적용 된 내용
+                  // TextButton(child: Text("닫기"),onPressed: () => Navigator.of(context)!.pop())
+                  
+                  // nullSafaty 미적용
+                  TextButton(child: Text("닫기"),onPressed: () => Navigator.of(context).pop())
                 ]
               )
             );
+            
             // (2) showCupertinoModalPopup - CupertinoActionSheet
             await showCupertinoModalPopup<void>(
               context: context,
@@ -39,12 +44,18 @@ class CupertinoPopUp extends StatelessWidget {
                   ),
                   CupertinoActionSheetAction(
                     child: Text("액션 2"),
-                    onPressed: () => print("Action 2")
+                    onPressed: () => print("Action 2"),
+                    isDefaultAction: true
                   )
                 ],
                 cancelButton: CupertinoActionSheetAction(
                   child: Text("액션 닫기"),
-                  onPressed: () => Navigator.of(context)!.pop()
+                  // nullSafaty 적용 된 내용
+                  // onPressed: () => Navigator.of(context)!.pop(),
+
+                  // nullSafaty 미적용
+                  onPressed: () => Navigator.of(context).pop(),
+                  isDestructiveAction: true
                 )
               )
             );
