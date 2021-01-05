@@ -70,6 +70,9 @@
       - CupertinoNavigationBar : 1-1
       - showCupertinoDialog & CupertinoAlertDialog: 2-1
       - showCupertinoModalPopup & CupertinoActionSheet : 2-1
+      - showCupertinoModalPopup & CupertinoDatePicker : 3-1
+      - showCupertinoModalPopup & CupertinoTimePicker : 3-1
+      - showCupertinoModalPopup & CupertinoPicker : 3-1
       - ...
     </details>
 
