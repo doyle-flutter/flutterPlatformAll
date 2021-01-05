@@ -157,12 +157,12 @@
 
 ## :link: with Server Node.js(Express.js)
 - Node.js(Express) [Code](https://github.com/doyle-flutter/basicexpress)
-- KAKAO 
+- KAKAO 카카오
   - Login [Preview](https://youtu.be/EeMTlhnle3w), [Video & Code](https://youtu.be/rQ8_CUE3v5I)
   - Pay [Video & Code 1](https://youtu.be/c_laRoqgio8), [Video & Code 2](https://youtu.be/KTm2xwoo6MI)
   - Map [Video & Code 1](https://youtu.be/sGUZp_45YOs), [Video & Code 2](https://youtu.be/NUTjdEr9ePs)
   - Address 주소 찾기 [Video & Code](https://youtu.be/xwavfU4_zeI)
-- Naver
+- Naver 네이버
   - Login 네아로 [Preview](https://youtu.be/8LlkCQXQ8TA), [Video & Code](https://youtu.be/lrTZQ_xkDGw)
   - API : Movie 영화 정보 [Video & Code](https://youtu.be/yRQvj7Y9zTQ)
   - API : News 뉴스 정보 [Preview](https://youtu.be/Lsqbon1ZByw), [Video & Code](https://youtu.be/7zaFZbuwyz4)
