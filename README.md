@@ -44,6 +44,8 @@
       - DateTime Calculation : Tutorial 21
       - PageView : Tutorial 22
       - BottomSheet : Tutorial 23
+      - Custom Route Animation : Tutorial 23*
+      - Custom PopUp : Tutorial 59*
       - ListWheelScrollVie : Tutorial 31
       - MediaQuery & Expanded : Tutorial 32
       - GestureDetector & onTap / TapPosition : Tutorial 47
