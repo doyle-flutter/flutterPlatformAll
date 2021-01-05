@@ -39,6 +39,7 @@
       - SafeArea : Tutorial 9
       - Button's : Tutorial 10 / Tutorial 1.22 업데이트
       - AppBar & SliverAppBar : Tutorial 13
+      - Navigator : Tutorial 11, 12, 59
       - Image : Tutorial 97
       - Screen OrientationBuilder & Fixed : Tutorial 18
       - DateTime Calculation : Tutorial 21
@@ -73,6 +74,7 @@
       - showCupertinoModalPopup & CupertinoDatePicker : 3-1
       - showCupertinoModalPopup & CupertinoTimePicker : 3-1
       - showCupertinoModalPopup & CupertinoPicker : 3-1
+      - CupertinoPageRoute & Navigator : 4-1
       - ...
     </details>
 
