@@ -1,9 +1,14 @@
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
 // // main.dart에 작성되어야 합니다
-// void main() => runApp(CupertinoApp(home: Page1()));
+// void main() => runApp(CupertinoApp(home: CupertinoPage1())); // -> Cupertino Test
+// void main() => runApp(MaterialApp(home: MaterialPage1())); // -> Material Test
 
-class Page1 extends StatelessWidget{
+
+// // Null-Safety 미적용
+// Cupertino Page Router
+class CupertinoPage1 extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return CupertinoPageScaffold(
@@ -13,7 +18,7 @@ class Page1 extends StatelessWidget{
           child: Text("Move"),
           onPressed: () => Navigator.of(context).push(
             CupertinoPageRoute<void>(
-              builder: (BuildContext context) => Page2()
+              builder: (BuildContext context) => CupertinoPage2()
             )
           )
         ),
@@ -22,7 +27,7 @@ class Page1 extends StatelessWidget{
   }  
 }
 
-class Page2 extends StatelessWidget{
+class CupertinoPage2 extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return CupertinoPageScaffold(
@@ -37,13 +42,44 @@ class Page2 extends StatelessWidget{
   }
 }
 
+// Material Page Router
+class MaterialPage1 extends StatelessWidget{
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text("M_Page1")),
+      body: Center(
+        child: TextButton(
+          child: Text("Move"),
+          onPressed: () => Navigator.of(context).push(
+            MaterialPageRoute(
+              builder: (BuildContext context) => MaterialPage2()
+            )
+          )
+        )
+      )
+    );
+  }
+}
 
-// // Null-Safety 적용 코드
-// import 'package:flutter/cupertino.dart';
+class MaterialPage2 extends StatelessWidget{
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text("M_Page2")),
+      body: Center(
+        child: TextButton(
+          child: Text("POP"),
+          onPressed: () => Navigator.of(context).pop()
+        )
+      )
+    );
+  }
+}
 
-// void main() => runApp(CupertinoApp(home: Page1()));
-
-// class Page1 extends StatelessWidget{
+// // Null-Safety 적용
+// // Cupertino Page Router
+// class CupertinoPage1 extends StatelessWidget{
 //   @override
 //   Widget build(BuildContext context) {
 //     return CupertinoPageScaffold(
@@ -53,7 +89,7 @@ class Page2 extends StatelessWidget{
 //           child: Text("Move"),
 //           onPressed: () => Navigator.of(context)!.push(
 //             CupertinoPageRoute<void>(
-//               builder: (BuildContext context) => Page2()
+//               builder: (BuildContext context) => CupertinoPage2()
 //             )
 //           )
 //         ),
@@ -62,7 +98,7 @@ class Page2 extends StatelessWidget{
 //   }  
 // }
 
-// class Page2 extends StatelessWidget{
+// class CupertinoPage2 extends StatelessWidget{
 //   @override
 //   Widget build(BuildContext context) {
 //     return CupertinoPageScaffold(
@@ -72,6 +108,41 @@ class Page2 extends StatelessWidget{
 //           child: Text("POP"),
 //           onPressed: () => Navigator.of(context)!.pop()
 //         ),
+//       )
+//     );
+//   }
+// }
+
+// // Material Page Router
+// class MaterialPage1 extends StatelessWidget{
+//   @override
+//   Widget build(BuildContext context) {
+//     return Scaffold(
+//       appBar: AppBar(title: Text("M_Page1")),
+//       body: Center(
+//         child: TextButton(
+//           child: Text("Move"),
+//           onPressed: () => Navigator.of(context)!.push(
+//             MaterialPageRoute(
+//               builder: (BuildContext context) => MaterialPage2()
+//             )
+//           )
+//         )
+//       )
+//     );
+//   }
+// }
+
+// class MaterialPage2 extends StatelessWidget{
+//   @override
+//   Widget build(BuildContext context) {
+//     return Scaffold(
+//       appBar: AppBar(title: Text("M_Page2")),
+//       body: Center(
+//         child: TextButton(
+//           child: Text("POP"),
+//           onPressed: () => Navigator.of(context)!.pop()
+//         )
 //       )
 //     );
 //   }
