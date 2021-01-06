@@ -16,11 +16,29 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/services.dart';
 import 'dart:html' as html;
 import 'dart:ui' as ui;
+import 'dart:js';
 
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
   GestureBinding.instance!.resamplingEnabled = true;
+
+  // [index.html]- JS Window 객체에 담겨있는 Method 또는 function 을 실행
+  context.callMethod('logger', ['FlutterState']);
+  context.callMethod('alertMessage', ['Flutter is calling upon JavaScript!']);
+
+  // [index.html]- JS Window 객체에 담겨있는 State 키 값을 출력
+  var state = JsObject.fromBrowserObject(context['state']);
+  print(state['hello']);
+
+  // Dart 에서 JS Window 객체 생성 및 호출
+  JsObject object = JsObject(context['Object']);
+  object['greeting'] = 'Hello';
+  object['greet'] = (name) => "${object['greeting']} $name";
+
+  dynamic message = object.callMethod('greet', ['JavaScript']);
+  context['console'].callMethod('log', [message]);
+
   return runApp(MyApp());
 }
 

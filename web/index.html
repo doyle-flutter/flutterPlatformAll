@@ -105,6 +105,20 @@
       });
     }
   </script>
+  <script>
+    function alertMessage(text) {
+      alert(text)
+    }
+
+    window.logger = (flutter_value) => {
+      // console.log({flutter_value});
+      console.log('Flutter : ', flutter_value );
+    }
+
+    window.state = {
+      hello: 'world'
+    }
+  </script>
   <script src="./main.dart.js" type="application/javascript"></script>
 </body>
 </html>

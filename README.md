@@ -12,22 +12,22 @@
 <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="10%" />
 
 - :star: 문법 Grammar [Video & Code 1](https://youtu.be/g5km3WGYm40), [Video & Code 2](https://youtu.be/vroq4fr8Z8s), [Video & Code 3](https://youtu.be/0bsDSlD7_zo), [Video & Code 4](https://youtu.be/2TEdTA_HRVg)
-- Future async & await [Video & Code](https://youtu.be/qM7vEh4L55Y)
+- Future async & await : [Video & Code](https://youtu.be/qM7vEh4L55Y)
 - Modeling - OpenAPI 활용
-  - 서울 열린 데이터 광장(서울시 구별 주민등록 인구) [Video & Code](https://youtu.be/WCPnJrDhCdI)
-  - openWeather 날씨[Video & Code](https://youtu.be/tLpqycMNflI)
-- etc - ServerSide [Angel Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4M3AG5ZxS_R8NgWXqfKQfz1)
+  - 서울 열린 데이터 광장(서울시 구별 주민등록 인구) : [Video & Code](https://youtu.be/WCPnJrDhCdI)
+  - openWeather 날씨 : [Video & Code](https://youtu.be/tLpqycMNflI)
+- etc - ServerSide : [Angel Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4M3AG5ZxS_R8NgWXqfKQfz1)
 
 ### Flutter 
 
 <img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width="30%" />
 
 - :v: Flutter(WEB & APP & Desktop)
-  - SETUP [Windows](https://youtu.be/ZOSQHBTWQZY?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ) / Mac
-  - Update Version Apply & Change [Prev](https://youtu.be/W1f0v9jf4gE) / [1.22.5](https://youtu.be/ipnPzfgmTHU?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
-  - :star2: Widget UI [Tutorial Video](https://youtube.com/playlist?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
+  - SETUP : [Windows](https://youtu.be/ZOSQHBTWQZY?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ) / Mac
+  - Update Version Apply & Change : [Prev](https://youtu.be/W1f0v9jf4gE) / [1.22.5](https://youtu.be/ipnPzfgmTHU?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
+  - :star2: Widget UI : [Tutorial Video](https://youtube.com/playlist?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
     <details>
-      <summary>Material Design Widget</summary>
+      <summary>Material & Common Design Widget</summary>
 
       - Scaffold : Tutorial 1
       - Container : Tutorial 2
@@ -139,6 +139,7 @@
   - Func
     - PlattformCheck : isWeb [Video & Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
     - IFrame : (Video...), [Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
+    - Channel : Dart & JS
   - Deploy & Node.js(Express) - HTML
     - Localhost
       - Node.js Server [Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/server/app.js) 
