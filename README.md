@@ -76,6 +76,7 @@
       - showCupertinoModalPopup & CupertinoPicker : 3-1
       - CupertinoPageRoute & Navigator : 4-1
       - CupertinoField & TextEditingController : 5-1
+      - CupertinoSliver NavagationBar & Grid(List)View : 6-1
       - ...
     </details>
 
