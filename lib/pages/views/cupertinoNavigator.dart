@@ -5,7 +5,6 @@ import 'package:flutter/material.dart';
 // void main() => runApp(CupertinoApp(home: CupertinoPage1())); // -> Cupertino Test
 // void main() => runApp(MaterialApp(home: MaterialPage1())); // -> Material Test
 
-
 // // Null-Safety 미적용
 // Cupertino Page Router
 class CupertinoPage1 extends StatelessWidget{
