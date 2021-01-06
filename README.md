@@ -39,7 +39,7 @@
       - SafeArea : Tutorial 9
       - Button's : Tutorial 10 / Tutorial 1.22 업데이트
       - AppBar & SliverAppBar : Tutorial 13
-      - Navigator : Tutorial 11, 12, 59
+      - Material_Navigator : Tutorial 11, 12, 59
       - Image : Tutorial 97
       - Screen OrientationBuilder & Fixed : Tutorial 18
       - DateTime Calculation : Tutorial 21
