@@ -23,7 +23,7 @@
 <img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width="30%" />
 
 - :v: Flutter(WEB & APP & Desktop)
-  - SETUP : [Windows](https://youtu.be/ZOSQHBTWQZY?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ) / Mac
+  - SETUP : [Windows](https://youtu.be/ZOSQHBTWQZY?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ) / [Mac-1.22.5](https://youtu.be/ipnPzfgmTHU?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
   - Update Version Apply & Change : [Prev](https://youtu.be/W1f0v9jf4gE) / [1.22.5](https://youtu.be/ipnPzfgmTHU?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
   - :star2: Widget UI : [Tutorial Video](https://youtube.com/playlist?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
     <details>
@@ -86,8 +86,6 @@
     - Stateful & Stateless [Video & Code 1](https://youtu.be/BnoWa4jZykM), [Video Code 2](https://youtu.be/BnoWa4jZykM)
     - :+1: Provider [Video & Code 1](https://youtu.be/ny0TSVxAd-Q), [Video & Code 2](https://youtu.be/WXrYCjipLcg), [Video & Code 3](https://youtu.be/MXsl7XwAtYs)
     - GetX [Video & Code 1 Statement](https://youtu.be/D3EzR9N3xZQ), [Video & Code 2 HTTP](https://youtu.be/iP7qopWbIeo), [Video & Code 3 Navigator](https://youtu.be/zyVYqdAc7Lg)
-    - MobX
-    - Redux
     - ...
   - :+1: UI LifeCycle & System LifeCycle [UI Video & Code 1](https://youtu.be/BnoWa4jZykM), [UI Video & Code 2](https://youtu.be/BnoWa4jZykM), [System Video & Code 3](https://youtu.be/NDanGQZb3iQ)
   - :camera: Camera Mobile [Video & Code](https://youtu.be/CXp3rzghCdA)
