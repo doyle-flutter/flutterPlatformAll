@@ -138,15 +138,15 @@
     - (4) Page Move(push, pop)
   - Func
     - PlattformCheck : isWeb [Video & Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
-    - IFrame : (Video...), [Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
-    - Channel : Dart & JS
+    - IFrame : [Video](https://youtu.be/XhKo3RS17CQ), [Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
+    - Channel : Dart & JS [Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
   - Deploy & Node.js(Express) - HTML
     - Localhost
       - Node.js Server [Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/server/app.js) 
       - HTML Client [Code](https://github.com/doyle-flutter/flutterPlatformAll/tree/main/web)
       - Flutter [Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
-    - GitHub Pages : [Full Video](https://youtu.be/loGoMmC_T68) & [GitHub](https://github.com/doyle-flutter/flutterWebTest)
     - AWS
+    - GitHub Pages : [Full Video](https://youtu.be/loGoMmC_T68) & [GitHub](https://github.com/doyle-flutter/flutterWebTest)
     - Firebase
     - Cafe24
 - :iphone: APP
