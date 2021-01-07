@@ -1,7 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoyle-flutter/flutterPlatformAll&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Flutter WEB APP DESKTOP
-(ver : 1.26.0-1.0.pre)  
+# Flutter WEB APP DESKTOP  
 
 ### Youtube : 제임쓰 Dev :kr:
 
@@ -127,7 +126,7 @@
 
 ## One Source Multi Platform
 - :link: WEB(2021 production version ?! :pray: )
-  - Setup & Version UPdate [Video & Code](https://youtu.be/0_mQUS8Y8c0)
+  - Setup & Version UPdate(1.26.0-1.0.pre) [Video & Code](https://youtu.be/0_mQUS8Y8c0)
   - Router - Navigator 2.0 [Video & Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
     - (1) StaticPath
     - (2-1) DynamicPath
