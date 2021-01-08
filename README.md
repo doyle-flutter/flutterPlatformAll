@@ -160,6 +160,7 @@
       - Flutter [Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
     - AWS
     - GitHub Pages : [Full Video](https://youtu.be/loGoMmC_T68) & [GitHub](https://github.com/doyle-flutter/flutterWebTest)
+    - GitHub Pages 2 : [React WEB - APP Full Course : Code](https://github.com/doyle-flutter/flutterWebAll) / [URL](https://doyle-flutter.github.io/flutterWebAll/)
     - Firebase
     - Cafe24
 - :iphone: APP
