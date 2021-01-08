@@ -6,6 +6,22 @@
 
 <img src="https://avatars1.githubusercontent.com/u/56661529?s=460&u=a78acbb3fc77487cd2078e460ba19d8cc751b2f2&v=4" width="30%" />
 
+### Guide
+- :wave: Flutter를 처음 보신다면!
+  1. Dart 기초 문법 먼저 암기가 중요합니다 : 하단 내용 참고 및 [Code](https://www.notion.so/jamesflutter/Dart-811065db09e9451bb19f1173881056cb)
+  2. Widget(Material & Common, Cupertino) 학습 : [Tutorial Video 중 Widget](https://youtube.com/playlist?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
+  3. Flutter 기능들과 생활코딩 WEB(HTML, CSS, JS) / Node.js 병행 학습 : [생활코딩](https://opentutorials.org/course/1)
+  4. WEB 이후 서버를 활용한 예제(하단 내용 중 네이버, 카카오 등 api 내용 참고) 진행
+- :question: Dart / Flutter 가 어렵다면?
+  1. 생활코딩 WEB(HTML, CSS, JS) / Node.js 를 우선 학습하고 오시는 게 좋습니다, APP 개발에도 WEB 관련 내용은 중요하며 네이티브 및 리액트네이티브, 다른 프레임워크를 학습하시는 것이 오히려 처음 개발하실 때에는 혼란스러울 수 있습니다
+  2. Flutter가 어렵다면 우선 Dart 문법은 암기 및 이해가 충분한지 점검하고 이후 Widget 에 대한 이해를 늘려야합니다
+  3. WEB 학습 이후에도 어렵다면 React 리액트를 먼저 보시는 것도 도움이 됩니다.
+- :+1: 중고급 개발을 위해
+  1. Native(Android / IOS) 네이티브 / Architecture 아키텍처 / Design Pattern 디자인 패턴 학습 : [될 때까지 안드로이드 - 생존코딩](https://www.youtube.com/c/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%83%9D%EC%A1%B4%EC%BD%94%EB%94%A9/featured),
+   [Apple Doc 공식 홈페이지](https://developer.apple.com/kr/develop/) / [MVVM 1](https://youtu.be/Gza5iVXn_KE), [MVVM 2](https://youtu.be/7zaFZbuwyz4)
+  2. 깊은 언어의 이해를 위해 유튜브 코드스피츠 채널을 추천드립니다(JS를 사용하시지만 개인적으로 너무 좋아서 두번 추천드립니다) : [코드스피츠](https://www.youtube.com/channel/UCKXBpFPbho1tp-Ntlfc25kA)
+
+
 ### Dart
 
 <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="10%" />
