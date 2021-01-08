@@ -13,7 +13,7 @@
   - Flutter 기능들과 생활코딩 WEB(HTML, CSS, JS) / Node.js 병행 학습 : [생활코딩](https://opentutorials.org/course/1)
   - WEB 이후 서버를 활용한 예제 진행 : 하단 내용 중 네이버, 카카오 등 api 활용 등 참고
 - :question: Dart / Flutter 가 어렵다면?
-  - 처음 개발을 공부하실 때에 생활코딩 WEB(HTML, CSS, JS) / Node.js 부터 학습하고 오시는 게 좋습니다, APP 개발에도 WEB 관련 내용은 중요하며 네이티브 및 리액트네이티브, 다른 프레임워크를 학습하시는 것이 오히려 처음 개발하실 때에는 혼란스러울 수 있습니다
+  - 처음 개발을 공부하실 때에는 생활코딩 WEB(HTML, CSS, JS) / Node.js 부터 학습하고 오시는 게 좋습니다, APP 개발에도 WEB 관련 내용은 중요하며 네이티브 및 리액트네이티브, 다른 프레임워크를 학습하시는 것이 오히려 처음 개발하실 때에는 혼란스러울 수 있습니다
   - Flutter가 어렵다면 우선 Dart 문법은 암기 및 이해가 충분한지 점검하고 이후 Widget 에 대한 이해를 늘려야합니다
   - 생활코딩 WEB 학습 이후에도 어렵다면 React 리액트를 먼저 보시는 것도 도움이 됩니다.
 - :+1: 중고급 개발을 위해
@@ -26,7 +26,7 @@
 
 <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="10%" />
 
-- :star: 문법 Grammar [Video & Code 1](https://youtu.be/g5km3WGYm40), [Video & Code 2](https://youtu.be/vroq4fr8Z8s), [Video & Code 3](https://youtu.be/0bsDSlD7_zo), [Video & Code 4](https://youtu.be/2TEdTA_HRVg)
+- :star: 문법 Grammar : [Code](https://www.notion.so/jamesflutter/Dart-811065db09e9451bb19f1173881056cb), [Video & Code 1](https://youtu.be/g5km3WGYm40), [Video & Code 2](https://youtu.be/vroq4fr8Z8s), [Video & Code 3](https://youtu.be/0bsDSlD7_zo), [Video & Code 4](https://youtu.be/2TEdTA_HRVg)
 - Future async & await : [Video & Code](https://youtu.be/qM7vEh4L55Y)
 - Modeling - OpenAPI 활용
   - 서울 열린 데이터 광장(서울시 구별 주민등록 인구) : [Video & Code](https://youtu.be/WCPnJrDhCdI)
