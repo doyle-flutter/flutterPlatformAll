@@ -150,7 +150,7 @@
     - (3) 404Page
     - (4) Page Move(push, pop)
   - Func
-    - PlattformCheck : isWeb [Video & Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
+    - PlatformCheck : isWeb [Video & Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
     - IFrame : [Video](https://youtu.be/XhKo3RS17CQ), [Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
     - Channel : Dart & JS [Code](https://github.com/doyle-flutter/flutterPlatformAll/blob/main/lib/main.dart)
   - Deploy & Node.js(Express) - HTML
@@ -168,7 +168,7 @@
   - Setup
   - Router - Navigator 1.0 [Video & Code 1](https://youtu.be/kNa6ozCNocs), [Video & Code 2](https://youtu.be/IiiH7hslfCA), [Video & Code 3](https://youtu.be/skH3whrNtDs)
   - Func
-    - PlattformCheck
+    - PlatformCheck
   - Deploy
     - Android APK : GooglePlay [Video](https://youtu.be/Th5hK7aS-Og?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
     - IOS : AppStore
