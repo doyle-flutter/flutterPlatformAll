@@ -230,7 +230,7 @@
   - 전자 공시 시스템 : 최근 3개월 공시 기업 내용 조회 어플( 입문 [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/DartStock.dart) / [Video-Test](https://youtu.be/vv5qGquwVck) / [Video-Des](https://youtu.be/ETvHeU4EFJ8)
   - (Flutter...) & (Server...)
 - :point_up: Intermediate : 
-  - 쇼핑몰 : shop( 중급 [Flutter APP & WEB(작성 중) / Server Node.js(작성 중)](https://github.com/doyle-flutter/flutterWebApp_Shop_Intermediate) )
+  - 쇼핑몰 : shop( 입문-초급 [Flutter APP & WEB / Server Node.js _ 1 완료](https://github.com/doyle-flutter/flutterWebApp_Shop_Intermediate) / 중-고급 (Flutter APP & WEB / Server 작성중 ...) )
   - (Flutter...) & (Server...)
 - :v: Advanced - Architecture(Provider Pattern)
   - MVC : (Flutter...) & (Server...)
