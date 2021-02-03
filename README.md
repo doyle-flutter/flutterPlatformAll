@@ -31,7 +31,9 @@
 - Modeling - OpenAPI 활용
   - 서울 열린 데이터 광장(서울시 구별 주민등록 인구) : [Video & Code](https://youtu.be/WCPnJrDhCdI)
   - openWeather 날씨 : [Video & Code](https://youtu.be/tLpqycMNflI)
-- etc - ServerSide : [Angel Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4M3AG5ZxS_R8NgWXqfKQfz1)
+- etc 
+  - ServerSide : [Angel Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4M3AG5ZxS_R8NgWXqfKQfz1)
+  - Static : [Video & Code](https://youtu.be/aawbIF3KCBk)
 
 ### Flutter 
 
@@ -230,7 +232,7 @@
   - 전자 공시 시스템 : 최근 3개월 공시 기업 내용 조회 어플( 입문 [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/DartStock.dart) / [Video-Test](https://youtu.be/vv5qGquwVck) / [Video-Des](https://youtu.be/ETvHeU4EFJ8)
   - (Flutter...) & (Server...)
 - :point_up: Intermediate : 
-  - 쇼핑몰 : shop( 입문-초급 [Flutter APP & WEB / Server Node.js _ 1 완료](https://github.com/doyle-flutter/flutterWebApp_Shop_Intermediate) / 중-고급 (Flutter APP & WEB / Server 작성중 ...) )
+  - 쇼핑몰 : shop( 입문-초급 [Flutter APP & WEB / Server Node.js _ 1 완료](https://github.com/doyle-flutter/flutterWebApp_Shop_Intermediate) / 중-고급 [Video & Code 113-1~4](https://youtu.be/Q_1Y6QdhuX4)
   - (Flutter...) & (Server...)
 - :v: Advanced - Architecture(Provider Pattern)
   - MVC : (Flutter...) & (Server...)
