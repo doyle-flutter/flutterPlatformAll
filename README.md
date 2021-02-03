@@ -178,7 +178,7 @@
   - MacOS Test [Video](https://youtu.be/S-QhsVSyLCQ?list=PLIKnSA4GMR4NmOMAMmYMib9cfX-PcHicM)
   - Router
   - Func
-    - PlattformCheck
+     - MacOS & Windos : [File_Picker_Cross Video & Code](https://youtu.be/YW6U0qkeBNc)
   - Deploy
 
 ## :link: with Server Node.js(Express.js)
