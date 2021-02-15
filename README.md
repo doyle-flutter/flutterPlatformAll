@@ -239,3 +239,8 @@
   - MVC + : (Flutter...) & (Server...)
   - MVVM : (Flutter...) & (Server...)
   - MVVM + : (Flutter...) & (Server...)
+  
+## :+1: Native & Flutter
+ - Android : [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4MgpIwPF5z80PR1buTo57oD)
+ - IOS : ... await
+ - WEB : ... await
