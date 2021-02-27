@@ -207,6 +207,9 @@
 - Node.JS & HTML / React & Flutter [Code](https://github.com/doyle-flutter/flutterPlatformAll/tree/main/server)
 - Node.js & HTML / Svelte & Flutter (Code...)
 
+## :link: with Server FastAPI(Python)
+- Full [Video](https://youtube.com/playlist?list=PLIKnSA4GMR4NjeOEPYkZ4vQBDB6UNTdp-) & [Code](https://github.com/doyle-flutter/docFastApi)
+
 ## :fire: with Firebase
 - Firebase Cloud Messaging
 - RealTime Database 
