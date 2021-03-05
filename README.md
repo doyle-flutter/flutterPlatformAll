@@ -143,16 +143,18 @@
     - ARDUINO, PHILIPS Hue 4.0, MIDI [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4NAkXBar_UOCv4YZs2q4as4)
 
 ## Flutter 2 : [Videos](https://youtube.com/playlist?list=PLIKnSA4GMR4M6BB7cJnP64hrfMh2aM68d)
-- Null-Safety
+- Null-Safety : [Video](https://youtu.be/zl3zuHeZid4)
 - Flutter WEB ver.Stable
 - New Widgets 
   - Cupertino : CupertinoSearchTextField, CupertinoFormSection, CupertinoFormSection.insetGrouped, CupertinoFormRow, CupertinoTextFormFieldRow
   - Material : AutocompleteCore, ScaffoldMessenger
-- Flutter google admob SDK Open
-- deprecated apply
+- Flutter google admob SDK Open : [Video](https://youtu.be/DHmmce1nFlo)
+- FlutterFire & Flutter Community Plus Plugins 
+- deprecated
   - dart fix --dry-run
   - dart fix --apply
-- ... ~ing
+- Flutter & Sentry
+- etc ...
 
 
 ## One Source Multi Platform
