@@ -153,7 +153,11 @@
 - deprecated
   - dart fix --dry-run
   - dart fix --apply
-- Flutter & Sentry
+- Flutter & Sentry : [Video](https://youtu.be/xNmtyfYBnjQ)
+- Community Plus Plugins 
+  - (1) Connectivity ➕ : [Video](https://youtu.be/mUGuqrPVZ0I)
+  - (2) Device Info ➕Check : [Video](https://youtu.be/w1LsrxnwQTM)
+  - 
 - etc ...
 
 
