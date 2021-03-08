@@ -160,7 +160,7 @@
   - (3) Network WiFi Info ➕ : [Video](https://youtu.be/S0FqC8pObg4)
   - (4) Package Info ➕ : [Video](https://youtu.be/EHMW9kQq_Ls)
   - (5) Share plus & ImagePicker & New Button ➕ : [Video](https://youtu.be/Mr_UUNUjFZI)
-  - 
+  - (6-TEST) android_alarm_manager_plus ➕ : [Video](https://youtu.be/6725la-4h18)
 - etc ...
 
 
