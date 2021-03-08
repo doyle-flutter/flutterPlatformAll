@@ -157,6 +157,7 @@
 - Community Plus Plugins 
   - (1) Connectivity ➕ : [Video](https://youtu.be/mUGuqrPVZ0I)
   - (2) Device Info ➕Check : [Video](https://youtu.be/w1LsrxnwQTM)
+  - (3) Network WiFi Info ➕ : [Video](https://youtu.be/S0FqC8pObg4)
   - 
 - etc ...
 
