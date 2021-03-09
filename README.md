@@ -188,6 +188,8 @@
     - GitHub Pages 3 : [Dart Code - Repositories](https://github.com/doyle-flutter/flutterWebAllCode)
     - Firebase
     - Cafe24
+- :link: WEB Stable(Flutter 2) 👍
+  - Clone : [Code](https://github.com/doyle-flutter/Flutter2WebApplone2) 
 - :iphone: APP
   - Setup
   - Router - Navigator 1.0 [Video & Code 1](https://youtu.be/kNa6ozCNocs), [Video & Code 2](https://youtu.be/IiiH7hslfCA), [Video & Code 3](https://youtu.be/skH3whrNtDs)
