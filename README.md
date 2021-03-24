@@ -234,12 +234,11 @@
 ## :link: with Server FastAPI(Python)
 - Full [Video](https://youtube.com/playlist?list=PLIKnSA4GMR4NjeOEPYkZ4vQBDB6UNTdp-) & [Code](https://github.com/doyle-flutter/docFastApi)
 
-## :fire: with Firebase
+## :fire: with Firebase [(Video & Code)](https://youtube.com/playlist?list=PLIKnSA4GMR4Oke0mIuD773zl8VBOUa3UO)
 - Firebase Cloud Messaging : [(ver9.0.1)Code & Video](https://github.com/doyle-flutter/flutter2fcm/tree/flutter2)
 - RealTime Database 
 - Cloud Database
 - ML kit
-- [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4Oke0mIuD773zl8VBOUa3UO)
 
 ## :+1: with 생활코딩
 - Node.js [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4Ow3vkUMUw7FaCrXL9CDOmT)
