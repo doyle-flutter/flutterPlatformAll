@@ -104,7 +104,7 @@
     - :+1: Provider [Video & Code 1](https://youtu.be/ny0TSVxAd-Q), [Video & Code 2](https://youtu.be/WXrYCjipLcg), [Video & Code 3](https://youtu.be/MXsl7XwAtYs)
     - GetX [Video & Code 1 Statement](https://youtu.be/D3EzR9N3xZQ), [Video & Code 2 HTTP](https://youtu.be/iP7qopWbIeo), [Video & Code 3 Navigator](https://youtu.be/zyVYqdAc7Lg)
     - ...
-  - :+1: UI LifeCycle & System LifeCycle [UI Video & Code 1](https://youtu.be/BnoWa4jZykM), [UI Video & Code 2](https://youtu.be/BnoWa4jZykM), [System Video & Code 3](https://youtu.be/NDanGQZb3iQ)
+  - :+1: UI LifeCycle & System LifeCycle [UI Video & Code 1](https://youtu.be/BnoWa4jZykM), [UI Video & Code 2](https://youtu.be/BnoWa4jZykM), [System Video & Code 3](https://youtu.be/NDanGQZb3iQ), [After Build(pub) - Video & Code 3](https://youtu.be/4UkGMRqh4hg)
   - :camera: Camera Mobile [Video & Code](https://youtu.be/CXp3rzghCdA)
   - :camera: Gallery ImagePicker : Mobile [Video & Code 1](https://youtu.be/CXp3rzghCdA), [Video & Code 2](https://youtu.be/JB4OhjSvUwY)
   - :camera: QR Scanner : Mobile [Video & Code](https://youtu.be/CnhjRKHI9bs)
