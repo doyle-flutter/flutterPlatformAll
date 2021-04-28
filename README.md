@@ -4,7 +4,7 @@
 
 ### Youtube : 제임쓰 Dev :kr:
 
-<img src="https://avatars1.githubusercontent.com/u/56661529?s=460&u=a78acbb3fc77487cd2078e460ba19d8cc751b2f2&v=4" width="30%" />
+<img src="https://avatars1.githubusercontent.com/u/56661529?s=460&u=a78acbb3fc77487cd2078e460ba19d8cc751b2f2&v=4" width="20%" />
 
 ### Guide
 - :wave: Flutter를 처음 보신다면!
