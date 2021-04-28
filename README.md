@@ -3,7 +3,7 @@
 # Flutter WEB APP DESKTOP  
 
 ### Youtube : 제임쓰 Dev :kr: [🔗](https://www.youtube.com/channel/UCjpik_Cbt0SeE5kBzao4nqg)
-<img src="https://avatars.githubusercontent.com/u/56661529?s=400&u=7d9603c8e23e3f450f5dc30cf6776d0d00841b10&v=4" width="10%" />
+<img src="https://avatars.githubusercontent.com/u/56661529?s=400&u=7d9603c8e23e3f450f5dc30cf6776d0d00841b10&v=4" width="20%" />
 
 ### Guide
 - :wave: Flutter를 처음 보신다면!
