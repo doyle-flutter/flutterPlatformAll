@@ -4,7 +4,6 @@
 
 ### Youtube : 제임쓰 Dev :kr:
 
-<img src="https://avatars1.githubusercontent.com/u/56661529?s=460&u=a78acbb3fc77487cd2078e460ba19d8cc751b2f2&v=4" width="20%" style="border-radius: 100%;" />
 
 ### Guide
 - :wave: Flutter를 처음 보신다면!
@@ -19,7 +18,7 @@
 - :+1: 중고급 개발을 위해
   - Native(Android / IOS) 네이티브 / Architecture 아키텍처 / Design Pattern 디자인 패턴 학습 : [될 때까지 안드로이드 - 생존코딩](https://www.youtube.com/c/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%83%9D%EC%A1%B4%EC%BD%94%EB%94%A9/featured),
    [Apple Doc 공식 홈페이지](https://developer.apple.com/kr/develop/) / [MVVM 1](https://youtu.be/Gza5iVXn_KE), [MVVM 2](https://youtu.be/7zaFZbuwyz4)
-  - 깊은 언어의 이해를 위해 유튜브 코드스피츠 채널을 추천드립니다(JS를 사용하시지만 개인적으로 너무 좋아서 두번 추천드립니다) : [코드스피츠](https://www.youtube.com/channel/UCKXBpFPbho1tp-Ntlfc25kA)
+  - 깊은 언어의 이해를 위해 유튜브 코드스피츠 채널을 추천드립니다(개인적으로 너무 좋아서 두번 추천드립니다) : [코드스피츠](https://www.youtube.com/channel/UCKXBpFPbho1tp-Ntlfc25kA)
 
 
 ### Dart
