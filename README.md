@@ -7,7 +7,7 @@
 
 ### Guide
 - :wave: Flutter를 처음 보신다면!
-  - Dart 기초 문법 먼저 암기가 중요합니다 : 하단 내용 참고 및 [Code](https://www.notion.so/jamesflutter/Dart-811065db09e9451bb19f1173881056cb)
+  - Dart 기초 문법 먼저 암기가 중요합니다 : 하단 내용 참고 및 [Dart Doc.](https://dart.dev/guides)
   - Widget(Material & Common, Cupertino) 학습 : [Tutorial Video 중 Widget](https://youtube.com/playlist?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
   - Flutter 기능들과 생활코딩 WEB(HTML, CSS, JS) / Node.js 병행 학습 : [생활코딩](https://opentutorials.org/course/1)
   - WEB 이후 서버를 활용한 예제 진행 : 하단 내용 중 네이버, 카카오 등 api 활용 등 참고
