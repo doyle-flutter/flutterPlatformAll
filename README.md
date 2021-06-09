@@ -142,6 +142,8 @@
     - Sqflite - Server [Video & Code](https://youtu.be/NOGR2XKTb5s). [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/repo/LocalSqflite.dart)
   - :link: H/W
     - ARDUINO, PHILIPS Hue 4.0, MIDI [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4NAkXBar_UOCv4YZs2q4as4)
+  - :link: URL Scheme with 카카오 맵 [Video](https://youtu.be/5EDRe_RRzyw)
+
 
 ## :v: Flutter 2 : [Videos](https://youtube.com/playlist?list=PLIKnSA4GMR4M6BB7cJnP64hrfMh2aM68d)
 - Null-Safety : [Video](https://youtu.be/zl3zuHeZid4)
