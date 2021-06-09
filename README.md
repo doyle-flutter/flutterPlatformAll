@@ -33,6 +33,7 @@
 - etc 
   - ServerSide : [Angel Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4M3AG5ZxS_R8NgWXqfKQfz1)
   - Static : [Video & Code](https://youtu.be/aawbIF3KCBk)
+  - Dart2Native - EXE : [Video 1](https://youtu.be/DUmGHdFXKrQ) & [Video 2](https://youtu.be/I-5-Fw_ZV70)
 
 ## :point_up: Flutter 
 
