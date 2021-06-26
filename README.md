@@ -263,7 +263,8 @@
 - 전자 공시 시스템 : 최근 3개월 공시 기업 내용 조회 어플( 입문 [Code](https://github.com/doyle-flutter/basicflutter/blob/master/lib/views/DartStock.dart) / [Video-Test](https://youtu.be/vv5qGquwVck) / [Video-Des](https://youtu.be/ETvHeU4EFJ8) )
 - 쇼핑몰 : shop( 입문-초급 [Flutter APP & WEB / Server Node.js _ 1 완료](https://github.com/doyle-flutter/flutterWebApp_Shop_Intermediate) / 중-고급 [Video & Code 113-1~4](https://youtu.be/Q_1Y6QdhuX4)
 - My Project & Design Widgetsssss : [repo](https://github.com/doyle-flutter/JamesWidgets)
-- 디자인 클론(PageView & BottomNavigation): [example](https://youtu.be/Z2gamuNXeVU)
+- 디자인 클론 01 (PageView & BottomNavigation): [example](https://youtu.be/Z2gamuNXeVU)
+- 디자인 클론 02 (Stack & PageView) : [example](https://youtu.be/PH8GM61uePk)
   
 ## :+1: Native & Flutter
  - Android : [Video & Code](https://youtube.com/playlist?list=PLIKnSA4GMR4MgpIwPF5z80PR1buTo57oD)
