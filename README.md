@@ -38,7 +38,7 @@
 
 ## :point_up: Flutter 
 
-<img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width="30%" />
+<img src="https://flutter-ko.dev/images/flutter-logo-sharing.png" width="30%" />
 
 - :v: Flutter(WEB & APP & Desktop)
   - SETUP : [Windows](https://youtu.be/ZOSQHBTWQZY?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ) / [Mac-1.22.5](https://youtu.be/ipnPzfgmTHU?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
