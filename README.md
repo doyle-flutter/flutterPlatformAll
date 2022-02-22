@@ -1,6 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoyle-flutter/flutterPlatformAll&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Flutter WEB APP DESKTOP  
+(해당 레포의 업데이트를 계획하고 있습니다, 22년 상반기 중 새로운 레포의 주소를 공유하겠습니다. 감사합니다 🧑‍💻)
+
 
 ### Youtube : 제임쓰 Dev :kr: [🔗](https://www.youtube.com/channel/UCjpik_Cbt0SeE5kBzao4nqg)
 <img src="https://avatars.githubusercontent.com/u/56661529?s=400&u=7d9603c8e23e3f450f5dc30cf6776d0d00841b10&v=4" width="20%" />
